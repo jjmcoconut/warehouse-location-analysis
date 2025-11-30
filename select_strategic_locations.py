@@ -21,26 +21,28 @@ class SimpleKMeans:
         self.n_clusters = n_clusters
         self.max_iter = max_iter
         self.centroids = []
+        self.clusters = []
 
     def fit(self, data):
         # Initialize centroids randomly from data points
         if len(data) <= self.n_clusters:
             self.centroids = data
+            self.clusters = [[p] for p in data]
             return
 
         self.centroids = random.sample(data, self.n_clusters)
         
         for _ in range(self.max_iter):
             # Assign points to nearest centroid
-            clusters = [[] for _ in range(self.n_clusters)]
+            self.clusters = [[] for _ in range(self.n_clusters)]
             for point in data:
                 distances = [math.sqrt((point[0]-c[0])**2 + (point[1]-c[1])**2) for c in self.centroids]
                 closest_idx = distances.index(min(distances))
-                clusters[closest_idx].append(point)
+                self.clusters[closest_idx].append(point)
             
             # Update centroids
             new_centroids = []
-            for i, cluster in enumerate(clusters):
+            for i, cluster in enumerate(self.clusters):
                 if not cluster: # Handle empty cluster
                     new_centroids.append(self.centroids[i])
                     continue
@@ -56,6 +58,79 @@ class SimpleKMeans:
 
     def predict(self, data):
         pass # Not needed for this use case
+
+def calculate_silhouette_score(data, clusters, centroids):
+    if len(clusters) < 2 or len(data) <= len(clusters):
+        return -1
+
+    scores = []
+    
+    # Flatten clusters to map points to their cluster index
+    point_to_cluster = {}
+    for i, cluster in enumerate(clusters):
+        for point in cluster:
+            point_to_cluster[point] = i
+
+    for point in data:
+        cluster_idx = point_to_cluster[point]
+        own_cluster = clusters[cluster_idx]
+        
+        # Calculate a (mean intra-cluster distance)
+        if len(own_cluster) > 1:
+            a = sum(math.sqrt((point[0]-p[0])**2 + (point[1]-p[1])**2) for p in own_cluster if p != point) / (len(own_cluster) - 1)
+        else:
+            a = 0
+            
+        # Calculate b (mean nearest-cluster distance)
+        b = float('inf')
+        for i, cluster in enumerate(clusters):
+            if i == cluster_idx:
+                continue
+            if not cluster:
+                continue
+            dist = sum(math.sqrt((point[0]-p[0])**2 + (point[1]-p[1])**2) for p in cluster) / len(cluster)
+            b = min(b, dist)
+            
+        if b == float('inf'): # Should not happen if k > 1
+            b = 0
+
+        score = (b - a) / max(a, b) if max(a, b) > 0 else 0
+        scores.append(score)
+        
+    return sum(scores) / len(scores)
+
+def find_optimal_k(data, min_k=2, max_k=10):
+    best_k = min_k
+    best_score = -1
+    
+    # Ensure limits are valid relative to data size
+    # We need at least k points to have k clusters
+    effective_max = min(len(data), max_k)
+    effective_min = min(len(data), min_k)
+    
+    if effective_max < 2:
+        return effective_max
+        
+    if effective_min > effective_max:
+        effective_min = effective_max
+
+    print(f"  Searching for optimal k ({effective_min} to {effective_max})...")
+
+    # If min and max are same, just return that
+    if effective_min == effective_max:
+        return effective_min
+
+    for k in range(effective_min, effective_max + 1):
+        kmeans = SimpleKMeans(n_clusters=k)
+        kmeans.fit(data)
+        score = calculate_silhouette_score(data, kmeans.clusters, kmeans.centroids)
+        print(f"    k={k}: Silhouette Score = {score:.4f}")
+        
+        if score > best_score:
+            best_score = score
+            best_k = k
+            
+    return best_k
 
 def load_warehouses():
     warehouses_by_region = {}
@@ -114,20 +189,30 @@ def select_strategic(warehouses_by_region):
     
     for region, items in warehouses_by_region.items():
         count = len(items)
-        limit = LIMITS.get(region, LIMITS["default"])
         
-        print(f"Processing {region}: {count} locations (Limit: {limit})")
-        
-        if count <= limit:
-            print(f"  -> Keeping all {count} locations.")
-            selected_warehouses.extend(items)
-            continue
+        # Define constraints based on region
+        if region in ["usa", "europe"]:
+            min_k = 4
+            max_k = 7
+        else:
+            min_k = 2
+            max_k = 4
             
         # Prepare data for clustering
         coords = [(w['Latitude'], w['Longitude']) for w in items]
         
-        # Run Custom K-Means
-        kmeans = SimpleKMeans(n_clusters=limit)
+        # Determine optimal K
+        if count <= min_k:
+            optimal_k = count
+            print(f"Processing {region}: {count} locations (Too few for clustering, keeping all)")
+        else:
+            print(f"Processing {region}: {count} locations (Target k: {min_k}-{max_k})")
+            optimal_k = find_optimal_k(coords, min_k=min_k, max_k=max_k)
+        
+        print(f"  -> Selected optimal k={optimal_k}")
+        
+        # Run Custom K-Means with optimal K
+        kmeans = SimpleKMeans(n_clusters=optimal_k)
         kmeans.fit(coords)
         centers = kmeans.centroids
         
