@@ -1,21 +1,26 @@
 # Warehouse Location Analysis
 
-This project analyzes the geographic distribution and proximity of Amazon and Walmart warehouses in the United States. It includes tools to geocode warehouse locations from raw text lists and visualizes them on an interactive map to identify areas of high competition.
+This project analyzes the geographic distribution and proximity of Amazon and Walmart warehouses globally, with a specific focus on the US market. It includes tools to geocode locations, visualize them on interactive maps, and perform strategic analysis using clustering algorithms.
 
 ## Features
 
--   **Geocoding**: Converts warehouse lists (text/CSV) into geographic coordinates using the Nominatim API.
--   **Optimization**: Implements city-level caching to minimize API usage and speed up processing.
--   **Visualization**: Generates an interactive HTML map using `folium` to display warehouse locations.
--   **Analysis**: Calculates spatial statistics, including the overlap of Walmart warehouses within a 20km radius of Amazon facilities.
+-   **Global Geocoding**: Parses and geocodes warehouse lists for multiple countries (US, Europe, Asia, etc.) using the Nominatim API.
+-   **Optimization**: Implements city-level caching to minimize API usage.
+-   **Visualization**: Generates interactive HTML maps using `folium`.
+-   **Proximity Filtering**: Reduces map clutter by filtering out warehouses within a 10km radius of each other.
+-   **Strategic Selection**: Uses **K-Means Clustering** to identify a limited number of "strategic" locations (e.g., Max 7 for US/Europe) that best cover the regions.
+-   **Competition Analysis**: Calculates the overlap of Walmart warehouses within a 20km radius of Amazon facilities in the US.
 
 ## Results
 
--   **Amazon Warehouses**: ~427 locations mapped.
--   **Walmart Warehouses**: 36 locations mapped.
--   **Competition Analysis**:
-    -   **66.7%** of Walmart warehouses are within 20km of an Amazon warehouse.
-    -   The median distance from a Walmart facility to the nearest Amazon facility is **7.16 km**.
+### Global Analysis
+-   **Total Locations**: ~716 warehouses processed globally.
+-   **Filtered Map**: Reduced to **503** locations after removing duplicates within 10km.
+-   **Strategic Selection**: Selected **50** key locations globally (7 for US, 7 for Europe, 4 for other regions) to represent the network.
+
+### US Competition (Amazon vs Walmart)
+-   **Overlap**: **66.7%** of Walmart warehouses are within 20km of an Amazon warehouse.
+-   **Proximity**: The median distance from a Walmart facility to the nearest Amazon facility is **7.16 km**.
 
 ## Installation
 
@@ -33,30 +38,46 @@ This project analyzes the geographic distribution and proximity of Amazon and Wa
 ## Usage
 
 ### 1. Geocoding (Optional)
-If you want to regenerate the coordinate files from raw data:
+Regenerate coordinate files from raw data:
 
 ```bash
-# Geocode Amazon warehouses
+# US Data
 python3 fill_missing_coordinates.py
-
-# Geocode Walmart warehouses
 python3 geocode_walmart.py
+
+# Global Data
+python3 process_global_warehouses.py
 ```
 
-### 2. Analysis & Visualization
-To generate the map and view overlap statistics:
+### 2. Mapping & Analysis
 
+**Global Maps:**
+```bash
+# Generate map of ALL locations
+python3 map_global_warehouses.py
+
+# Generate map with reduced clutter (10km filter)
+python3 filter_warehouses.py
+python3 map_filtered_warehouses.py
+
+# Generate map of STRATEGIC locations (K-Means)
+python3 select_strategic_locations.py
+python3 map_strategic_locations.py
+```
+
+**US Competition Analysis:**
 ```bash
 python3 analyze_locations.py
 ```
 
-This will create `warehouse_map.html` which you can open in any web browser.
+## Output Files
 
-## Files
-
--   `analyze_locations.py`: Main script for mapping and analysis.
--   `fill_missing_coordinates.py`: Geocoding script for Amazon data.
--   `geocode_walmart.py`: Geocoding script for Walmart data.
--   `amazon_warehouses_filled.csv`: Processed Amazon data with coordinates.
--   `walmart_warehouses.csv`: Processed Walmart data with coordinates.
--   `warehouse_map.html`: Interactive output map.
+-   **Maps**:
+    -   `amazon_global_map.html`: All global locations.
+    -   `amazon_global_filtered_map.html`: Filtered (less cluttered) map.
+    -   `amazon_strategic_map.html`: Strategic selection map (Top 50).
+    -   `warehouse_map.html`: US Amazon vs Walmart comparison.
+-   **Data**:
+    -   `global_data/*.csv`: CSV files for each country/region.
+    -   `amazon_global_filtered.csv`: Filtered global list.
+    -   `amazon_strategic_locations.csv`: Strategic locations list.
