@@ -1,0 +1,504 @@
+Name,Latitude,Longitude,City,State,Country,Region
+Amazon_Beijing,40.190632,116.412144,Beijing,,China,china
+Amazon_Chengdu,30.659867,104.063315,Chengdu,,China,china
+Amazon_Guangzhou,23.1301964,113.2592945,Guangzhou,,China,china
+Amazon_Harbin,45.7593633,126.6276177,Harbin,,China,china
+Amazon_Jinan,36.6519754,117.1138479,Jinan,,China,china
+Amazon_Nanning,22.8193063,108.3627211,Nanning,,China,china
+Amazon_Shanghai,31.2312707,121.4700152,Shanghai,,China,china
+Amazon_Shenyang,41.8026095,123.4279105,Shenyang,,China,china
+Amazon_Suzhou,31.311123,120.6212881,Suzhou,,China,china
+Amazon_Tianjin,39.3032619,117.4163641,Tianjin,,China,china
+Amazon_Xi'an,34.261004,108.9423363,Xi'an,,China,china
+Amazon_Xiamen,24.5438732,118.0768065,Xiamen,,China,china
+Amazon_Multan,30.197838,71.4719683,Multan,,Pakistan,pakistan
+Amazon_Jurong,1.2595841,103.6704952,Jurong,,Singapore,singapore
+Amazon_Maracanaú,-3.8779438,-38.6247697,Maracanaú,Ceará,Brazil,brazil
+Amazon_Santa Maria,-16.0171229,-48.0131328,Santa Maria,Distrito Federal,Brazil,brazil
+Amazon_Betim,-19.9475338,-44.1995361,Betim,Minas Gerais,Brazil,brazil
+Amazon_Cabo de Santo Agostinho,-8.2838945,-35.0320984,Cabo de Santo Agostinho,Pernambuco,Brazil,brazil
+Amazon_GIG1,-22.7853575,-43.366715,São João de Meriti,Rio de Janeiro,Brazil,brazil
+Amazon_Nova Santa Rita,-29.8489972,-51.2764275,Nova Santa Rita,Rio Grande do Sul,Brazil,brazil
+Amazon_GRU6,-23.3561111,-46.8769444,Cajamar,São Paulo,Brazil,brazil
+Amazon_PRG2,50.1130584,14.2177331,Dobrovíz,,Czech Republic,europe
+Amazon_Boigny-sur-Bionne,47.9231655,2.0075032,Boigny-sur-Bionne,,France,europe
+Amazon_Boves,49.8463524,2.3932912,Boves,,France,europe
+Amazon_Saran,47.9514553,1.8749906,Saran,,France,europe
+Amazon_Montélimar,44.5579391,4.750318,Montélimar,,France,europe
+Amazon_Sevrey,46.7382911,4.840874,Sevrey,,France,europe
+Amazon_Lauwin-Planque,50.3906656,3.0462262,Lauwin-Planque,,France,europe
+Amazon_Brétigny-sur-Orge,48.6099887,2.3075288,Brétigny-sur-Orge,,France,europe
+Amazon_Augny,49.0593685,6.1219209,Augny,,France,europe
+Amazon_Senlis,50.5331612,2.1523287,Senlis,,France,europe
+Amazon_Graben,48.1890811,10.8220308,Graben,Bavaria,Germany,europe
+Amazon_Eggolsheim,49.7721617,11.0535303,Eggolsheim,Bavaria,Germany,europe
+Amazon_Hof,50.3187507,11.9162992,Hof,Bavaria,Germany,europe
+Amazon_Pforzheim,48.890934,8.7025509,Pforzheim,Baden-Württemberg,Germany,europe
+Amazon_Heidenheim an der Brenz,48.6767637,10.152923,Heidenheim an der Brenz,Baden-Württemberg,Germany,europe
+Amazon_Berlin-Mariendorf,52.4482933,13.3608757,Berlin-Mariendorf,Berlin,Germany,europe
+Amazon_Brieselang,52.588357,12.9958846,Brieselang,Brandenburg,Germany,europe
+Amazon_Schönefeld,52.388552,13.5048276,Schönefeld,Brandenburg,Germany,europe
+Amazon_Bad Hersfeld,50.8604177,9.6767709,Bad Hersfeld,Hessen,Germany,europe
+Amazon_Gernsheim,49.7466,8.5112,Gernsheim,Hessen,Germany,europe
+Amazon_Achim,53.020744,9.0247073,Achim,Lower Saxony,Germany,europe
+Amazon_Winsen,53.3636474,10.2059206,Winsen,Lower Saxony,Germany,europe
+Amazon_Garbsen,52.4276606,9.6005102,Garbsen,Lower Saxony,Germany,europe
+Amazon_Helmstedt,52.2089226,11.0028882,Helmstedt,Lower Saxony,Germany,europe
+Amazon_Werne,51.66268,7.6355052,Werne,North Rhine-Westphalia,Germany,europe
+Amazon_Rheinberg,51.5458979,6.6014097,Rheinberg,North Rhine-Westphalia,Germany,europe
+Amazon_Dortmund,51.5142273,7.4652789,Dortmund,North Rhine-Westphalia,Germany,europe
+Amazon_Krefeld,51.3331205,6.5623343,Krefeld,North Rhine-Westphalia,Germany,europe
+Amazon_Dormagen,51.0934389,6.8416158,Dormagen,North Rhine-Westphalia,Germany,europe
+Amazon_Mönchengladbach,51.1947131,6.4353792,Mönchengladbach,North Rhine-Westphalia,Germany,europe
+Amazon_Oelde,51.8260823,8.1453352,Oelde,North Rhine-Westphalia,Germany,europe
+Amazon_Witten,51.4370171,7.335124,Witten,North Rhine-Westphalia,Germany,europe
+Amazon_Koblenz,50.3533278,7.5943951,Koblenz,Rhineland-Palatinate,Germany,europe
+Amazon_Frankenthal,49.5353466,8.3541391,Frankenthal,Rhineland-Palatinate,Germany,europe
+Amazon_Kaiserslautern,49.4432174,7.7689951,Kaiserslautern,Rhineland-Palatinate,Germany,europe
+Amazon_Leipzig,51.3406321,12.3747329,Leipzig,Saxony,Germany,europe
+Amazon_Leipzig/Halle,51.4211901,12.2295859,Leipzig/Halle,Saxony,Germany,europe
+Amazon_Sülzetal,52.015359,11.5432798,Sülzetal,Saxony-Anhalt,Germany,europe
+Amazon_Gera,50.8765528,12.0832674,Gera,Thuringia,Germany,europe
+Amazon_Dublin,53.3493795,-6.2605593,Dublin,,Ireland,europe
+Amazon_Castel San Giovanni,45.0590671,9.4341783,Castel San Giovanni,,Italy,europe
+Amazon_Avigliana,45.0779435,7.3983904,Avigliana,,Italy,europe
+Amazon_Torrazza Piemonte,45.2154216,7.9745034,Torrazza Piemonte,,Italy,europe
+Amazon_Passo Corese,42.1553466,12.6522056,Passo Corese,,Italy,europe
+Amazon_Vercelli,45.5553827,8.3462837,Vercelli,,Italy,europe
+Amazon_Milan,45.4641943,9.1896346,Milan,,Italy,europe
+Amazon_Origgio,45.5976933,9.0180613,Origgio,,Italy,europe
+Amazon_Casirate d'Adda,45.4941243,9.5678078,Casirate d'Adda,,Italy,europe
+Amazon_Parma,44.6952006,10.0979869,Parma,,Italy,europe
+Amazon_San Bellino/Castelguglielmo,45.0251144,11.5882347,San Bellino/Castelguglielmo,,Italy,europe
+Amazon_Colleferro,41.727033,13.0041576,Colleferro,,Italy,europe
+Amazon_Cividate al Piano,45.554879,9.83096,Cividate al Piano,,Italy,europe
+Amazon_Novara,45.58425,8.545997,Novara,,Italy,europe
+Amazon_Spilamberto,44.533413,11.0240826,Spilamberto,,Italy,europe
+Amazon_Bitonto,41.1084971,16.691548,Bitonto,,Italy,europe
+Amazon_Ardea,41.608712,12.519382,Ardea,,Italy,europe
+Amazon_Arzano,40.9160204,14.2680178,Arzano,,Italy,europe
+Amazon_Palermo,38.1112268,13.3524434,Palermo,,Italy,europe
+Amazon_Catania,37.5023612,15.0873718,Catania,,Italy,europe
+Amazon_Castegnato,45.5605302,10.1158587,Castegnato,,Italy,europe
+Amazon_Poznań,52.4006632,16.9197326,Poznań,,Poland,europe
+Amazon_Wrocław,51.1263106,16.9781963,Wrocław,,Poland,europe
+Amazon_Szczecin – Kołbaskowo,53.3631686,14.5796189,Szczecin – Kołbaskowo,,Poland,europe
+Amazon_Katowice – Sosnowiec,50.2794094,19.0848767,Katowice – Sosnowiec,,Poland,europe
+Amazon_KTW3,50.294113,18.6657306,Gliwice 2020,,Poland,europe
+Amazon_Pawlikowice,52.24177,19.19391,Pawlikowice,,Poland,europe
+Amazon_Łódź,51.7728245,19.4784857,Łódź,,Poland,europe
+Amazon_Świebodzin,52.2498357,15.5324973,Świebodzin,,Poland,europe
+Amazon_Bratislava,48.1516988,17.1093063,Bratislava,,Slovakia,europe
+Amazon_Sereď,48.2889032,17.7308808,Sereď,,Slovakia,europe
+Amazon_San Fernando de Henares,40.4248548,-3.5350369,San Fernando de Henares,,Spain,europe
+Amazon_Getafe,40.3070639,-3.7331808,Getafe,,Spain,europe
+Amazon_Illescas,40.1248436,-3.8492688,Illescas,,Spain,europe
+Amazon_El Prat,41.3246333,2.0952568,El Prat,,Spain,europe
+Amazon_Martorelles,41.52851,2.2374755,Martorelles,,Spain,europe
+Amazon_Castellbisbal,41.4765136,1.9832978,Castellbisbal,,Spain,europe
+Amazon_Bobes,43.3945415,-5.7659787,Bobes,,Spain,europe
+Amazon_Dos Hermanas,37.283689,-5.9226718,Dos Hermanas,,Spain,europe
+Amazon_MAD9,40.481954,-3.363981,Alcalá de Henares,,Spain,europe
+Amazon_VLC1,39.965214,-0.2625745,"Onda, Castellón",,Spain,europe
+Amazon_Corvera,37.8421465,-1.1710842,Corvera,,Spain,europe
+Amazon_IST2,41.006381,28.9758715,Istanbul,,Turkey,europe
+Amazon_XTRA,40.8216536,29.9507184,Kocaeli,,Turkey,europe
+Amazon_Aylesford,51.3093091,0.4867332,Aylesford,England,United Kingdom,europe
+Amazon_Banbury,52.0601807,-1.3402795,Banbury,England,United Kingdom,europe
+Amazon_Bardon Hill,52.7139197,-1.3196174,Bardon Hill,England,United Kingdom,europe
+Amazon_Barking,51.5402677,0.0793235,Barking,England,United Kingdom,europe
+Amazon_Bedford,52.1363806,-0.4675041,Bedford,England,United Kingdom,europe
+Amazon_Bexley,51.4416793,0.150488,Bexley,England,United Kingdom,europe
+Amazon_Billingham,54.6072779,-1.2910885,Billingham,England,United Kingdom,europe
+Amazon_Bolton,53.5782863,-2.4300367,Bolton,England,United Kingdom,europe
+Amazon_Bristol,51.4538022,-2.5972985,Bristol,England,United Kingdom,europe
+Amazon_Carlisle,54.8948478,-2.9362311,Carlisle,England,United Kingdom,europe
+Amazon_Chesterfield,53.2352134,-1.4264097,Chesterfield,England,United Kingdom,europe
+Amazon_Coventry,52.4081812,-1.510477,Coventry,England,United Kingdom,europe
+Amazon_Croydon,51.3713049,-0.101957,Croydon,England,United Kingdom,europe
+Amazon_Darlington,54.5242081,-1.5555812,Darlington,England,United Kingdom,europe
+Amazon_Daventry,52.2578681,-1.1626569,Daventry,England,United Kingdom,europe
+Amazon_Doncaster,53.5227681,-1.1335312,Doncaster,England,United Kingdom,europe
+Amazon_Droitwich,52.26851,-2.1486075,Droitwich,England,United Kingdom,europe
+Amazon_Dunstable,51.8861316,-0.5209341,Dunstable,England,United Kingdom,europe
+Amazon_Durham,54.666667,-1.75,Durham,England,United Kingdom,europe
+Amazon_Eastwood,53.0171751,-1.30386,Eastwood,England,United Kingdom,europe
+Amazon_Enfield,51.6520851,-0.0810175,Enfield,England,United Kingdom,europe
+Amazon_Exeter,50.7256138,-3.5269209,Exeter,England,United Kingdom,europe
+Amazon_Gateshead,54.9625789,-1.6019294,Gateshead,England,United Kingdom,europe
+Amazon_Grays,51.4780898,0.3233131,Grays,England,United Kingdom,europe
+Amazon_Haydock,53.4671946,-2.6618064,Haydock,England,United Kingdom,europe
+Amazon_Harlow,51.7685568,0.0949036,Harlow,England,United Kingdom,europe
+Amazon_Hinckley,52.5410591,-1.3729379,Hinckley,England,United Kingdom,europe
+Amazon_Hull,53.7623863,-0.3301214,Hull,England,United Kingdom,europe
+Amazon_Ipswich,52.0579324,1.1528095,Ipswich,England,United Kingdom,europe
+Amazon_Kegworth,52.8380135,-1.2876377,Kegworth,England,United Kingdom,europe
+Amazon_Leeds,53.7974185,-1.5437941,Leeds,England,United Kingdom,europe
+Amazon_Lutterworth,52.4552224,-1.1997815,Lutterworth,England,United Kingdom,europe
+Amazon_Manchester,53.4794892,-2.2451148,Manchester,England,United Kingdom,europe
+Amazon_Mansfield,53.1443785,-1.1964165,Mansfield,England,United Kingdom,europe
+Amazon_Milton Keynes,52.0406502,-0.7594092,Milton Keynes,England,United Kingdom,europe
+Amazon_Neasden,51.5543358,-0.250749,Neasden,England,United Kingdom,europe
+Amazon_Northampton,52.2343297,-0.9028043,Northampton,England,United Kingdom,europe
+Amazon_North Ferriby,53.719226,-0.5051595,North Ferriby,England,United Kingdom,europe
+Amazon_Norwich,52.6285576,1.2923954,Norwich,England,United Kingdom,europe
+Amazon_Peterborough,52.5725769,-0.2427336,Peterborough,England,United Kingdom,europe
+Amazon_Plymouth,50.3714122,-4.1424451,Plymouth,England,United Kingdom,europe
+Amazon_Redditch,52.3057655,-1.9417444,Redditch,England,United Kingdom,europe
+Amazon_Rochdale,53.6153659,-2.1557561,Rochdale,England,United Kingdom,europe
+Amazon_Rugby,52.3726682,-1.2620038,Rugby,England,United Kingdom,europe
+Amazon_Sheffield,53.3806626,-1.4702278,Sheffield,England,United Kingdom,europe
+Amazon_Southampton,50.9025349,-1.404189,Southampton,England,United Kingdom,europe
+Amazon_Stoke-on-Trent,53.0162014,-2.1812607,Stoke-on-Trent,England,United Kingdom,europe
+Amazon_Swindon,51.5615327,-1.7854322,Swindon,England,United Kingdom,europe
+Amazon_Wakefield,53.6829541,-1.4967286,Wakefield,England,United Kingdom,europe
+Amazon_Wednesbury,52.5521806,-2.0224441,Wednesbury,England,United Kingdom,europe
+Amazon_Weybridge,51.3727175,-0.4549297,Weybridge,England,United Kingdom,europe
+Amazon_Bathgate,55.9009224,-3.6414828,Bathgate,Scotland,United Kingdom,europe
+Amazon_Dundee,56.4605938,-2.97019,Dundee,Scotland,United Kingdom,europe
+Amazon_Dunfermline,56.0713724,-3.4616183,Dunfermline,Scotland,United Kingdom,europe
+Amazon_Edinburgh,55.9533456,-3.1883749,Edinburgh,Scotland,United Kingdom,europe
+Amazon_Glasgow,55.861155,-4.2501687,Glasgow,Scotland,United Kingdom,europe
+"Amazon_Newport, Wales",51.5882332,-2.9974967,"Newport, Wales",Wales,United Kingdom,europe
+Amazon_Port Talbot,51.5952353,-3.7824148,Port Talbot,Wales,United Kingdom,europe
+Amazon_SVGA,16.5115306,80.6160469,Vijayawada,Andhra Pradesh,India,india
+Amazon_SGAA,26.1805978,91.753943,Guwahati,Assam,India,india
+Amazon_AMD1,23.0215374,72.5800568,Ahmedabad,Gujarat,India,india
+Amazon_DEL2,28.4646148,77.0299194,Gurgaon,Haryana,India,india
+Amazon_BLR5,12.9767936,77.590082,Bangalore,Karnataka,India,india
+Amazon_SIDA,22.7203616,75.8681996,Indore,Madhya Pradesh,India,india
+Amazon_BOM7,19.3025562,73.0588072,Bhiwandi,Maharashtra,India,india
+Amazon_BOM1,19.054999,72.8692035,Mumbai,Maharashtra,India,india
+Amazon_NAG1,21.1498134,79.0820556,Nagpur,Maharashtra,India,india
+Amazon_SPNA,18.5213738,73.8545071,Pune,Maharashtra,India,india
+Amazon_SATA,30.9090157,75.851601,Ludhiana,Punjab,India,india
+Amazon_SJAB,26.9154576,75.8189817,Jaipur,Rajasthan,India,india
+Amazon_NARE,26.4530971,77.0160461,Karauli,Rajasthan,India,india
+Amazon_MAA4,13.0836939,80.270186,Chennai,Tamil Nadu,India,india
+Amazon_SCJA,11.0018115,76.9628425,Coimbatore,Tamil Nadu,India,india
+Amazon_HYD1,17.360589,78.4740613,Hyderabad,Telangana,India,india
+Amazon_SLKA,26.8381,80.9346001,Lucknow,Uttar Pradesh,India,india
+Amazon_SCCA,22.5726459,88.3638953,Kolkata,West Bengal,India,india
+Amazon_AUH1,24.4538352,54.3774014,Abu Dhabi,,United Arab Emirates,united_arab_emirates
+Amazon_DXB5,25.0742823,55.1885387,Dubai,,United Arab Emirates,united_arab_emirates
+Amazon_YYC4,51.0456064,-114.057541,Calgary,Alberta,Canada,canada
+Amazon_YYC1,51.3699347,-114.014186,Rocky View County,Alberta,Canada,canada
+Amazon_YEG1,53.2272306,-113.8017098,Leduc County,Alberta,Canada,canada
+Amazon_YEG2,53.5050612,-114.3529154,Parkland County,Alberta,Canada,canada
+Amazon_Annacis Island,49.1765307,-122.9372696,Annacis Island,British Columbia,Canada,canada
+Amazon_YVR7,49.1039289,-122.657047,Langley,British Columbia,Canada,canada
+Amazon_YXX1,49.2207623,-122.690153,Pitt Meadows,British Columbia,Canada,canada
+Amazon_YXX2,49.163168,-123.137414,Richmond,British Columbia,Canada,canada
+Amazon_YVR4,49.0242843,-123.0762236,Tsawwassen,British Columbia,Canada,canada
+Amazon_YOO1,43.8505287,-79.0208814,Ajax,Ontario,Canada,canada
+Amazon_YGK1,44.2436328,-77.3607597,Belleville,Ontario,Canada,canada
+Amazon_YYZ3,43.685832,-79.7599366,Brampton,Ontario,Canada,canada
+Amazon_Caledon,43.8320699,-79.9066871,Caledon,Ontario,Canada,canada
+Amazon_YHM1,43.2560802,-79.8728583,Hamilton,Ontario,Canada,canada
+Amazon_YYZ1,43.5896231,-79.6443879,Mississauga,Ontario,Canada,canada
+Amazon_YYZ2,43.513671,-79.882817,Milton,Ontario,Canada,canada
+Amazon_YOW1,45.4208777,-75.6901106,Ottawa,Ontario,Canada,canada
+Amazon_YXU1,42.7415823,-81.3319189,Southwold,Ontario,Canada,canada
+Amazon_Toronto,43.6534817,-79.3839347,Toronto,Ontario,Canada,canada
+Amazon_YUL9,45.2963957,-74.1782005,Coteau-du-Lac,Quebec,Canada,canada
+Amazon_YUL5,45.521906,-73.4644578,Longueuil,Quebec,Canada,canada
+Amazon_Amazon Hub Counter,63.758582,-68.547079,Amazon Hub Counter,Nunavut,Canada,canada
+Amazon_Jeddah,21.5504432,39.1742363,Jeddah,,Saudi Arabia,saudi_arabia
+Amazon_Riyadh,23.333333,45.333333,Riyadh,,Saudi Arabia,saudi_arabia
+Amazon_10th of Ramadan,30.3154491,31.7392776,10th of Ramadan,,Egypt,egypt
+Amazon_NRT1,35.721634,139.9309444,Ichikawa,Chiba Prefecture,Japan,japan
+Amazon_TPF6,35.8322582,140.1452981,Inzai,Chiba Prefecture,Japan,japan
+Amazon_NRT2,35.722537,140.0995131,Yachiyo,Chiba Prefecture,Japan,japan
+Amazon_NGO2,35.3329961,137.1319459,Tajimi,Gifu Prefecture,Japan,japan
+Amazon_HND9,35.5306639,139.7037668,Kawasaki,Kanagawa Prefecture,Japan,japan
+Amazon_FSZ1,35.2645301,139.152246,Odawara,Kanagawa Prefecture,Japan,japan
+Amazon_KIX2,34.7120151,135.6235341,Daitō,Osaka Prefecture,Japan,japan
+Amazon_KIX4,34.5743612,135.5974874,Fujiidera,Osaka Prefecture,Japan,japan
+Amazon_KIX3,34.8161302,135.5685528,Ibaraki,Osaka Prefecture,Japan,japan
+Amazon_KIX1,34.5737364,135.4828866,Sakai,Osaka Prefecture,Japan,japan
+Amazon_HSG1,33.3778536,130.5061966,Tosu,Saga Prefecture,Japan,japan
+Amazon_NRT5,35.9251145,139.4856927,Kawagoe,Saitama Prefecture,Japan,japan
+Amazon_TIJ1,32.5317397,-117.019529,Tijuana,Baja California,Mexico,mexico
+Amazon_GDL1,20.6720375,-103.338396,Guadalajara,Jalisco,Mexico,mexico
+Amazon_MTY1,25.6802019,-100.315258,Monterrey,Nuevo León,Mexico,mexico
+Amazon_HMO1,29.0948207,-110.9692202,Hermosillo,Sonora,Mexico,mexico
+Amazon_MEX1,19.6531356,-99.2145002,Cuautitlán Izcalli,State of Mexico,Mexico,mexico
+Amazon_MEX3,19.7187644,-99.3069331,Tepotzotlán,State of Mexico,Mexico,mexico
+Amazon_Moorebank,-33.9332633,150.949686,Moorebank,New South Wales,Australia,australia
+Amazon_Kemps Creek,-33.8813335,150.7837238,Kemps Creek,New South Wales,Australia,australia
+Amazon_Eastern Creek,-33.8059423,150.849956,Eastern Creek,New South Wales,Australia,australia
+Amazon_Botany,-33.947829,151.1990644,Botany,New South Wales,Australia,australia
+Amazon_Bella Vista,-33.7416936,150.9547183,Bella Vista,New South Wales,Australia,australia
+Amazon_West Gosford,-33.415,151.3177778,West Gosford,New South Wales,Australia,australia
+Amazon_Mayfield West,-32.890084,151.7262824,Mayfield West,New South Wales,Australia,australia
+Amazon_Brisbane,-27.4689623,153.0235009,Brisbane,Queensland,Australia,australia
+Amazon_Pinkenba,-27.394503,153.1430837,Pinkenba,Queensland,Australia,australia
+Amazon_Arundel,-27.9360655,153.3653514,Arundel,Queensland,Australia,australia
+Amazon_Dandenong South,-38.0279936,145.2209236,Dandenong South,Victoria,Australia,australia
+Amazon_Ravenhall,-37.7754956,144.7366326,Ravenhall,Victoria,Australia,australia
+Amazon_Craigieburn,-37.6022613,144.9430882,Craigieburn,Victoria,Australia,australia
+Amazon_Mulgrave,-37.9261741,145.1723107,Mulgrave,Victoria,Australia,australia
+Amazon_Melbourne Airport,-37.6667554,144.8288501,Melbourne Airport,Victoria,Australia,australia
+Amazon_Geelong,-38.1493248,144.3598241,Geelong,Victoria,Australia,australia
+Amazon_Perth Airport,-31.9415213,115.9655769,Perth Airport,Western Australia,Australia,australia
+Amazon_Jandakot Airport,-32.0976113,115.8747482,Jandakot Airport,Western Australia,Australia,australia
+Amazon_Cavan,-34.825656,138.5995084,Cavan,South Australia,Australia,australia
+Amazon_BHM1,33.3771157,-87.0057927,Bessemer,Alabama,USA,usa
+Amazon_HSV1,34.6666314,-86.8501419,Huntsville,Alabama,USA,usa
+Amazon_MOB1,30.5553873,-88.2117586,Mobile,Alabama,USA,usa
+Amazon_GYR3,33.4575099,-112.2333065,Avondale,Arizona,USA,usa
+Amazon_PHX5,33.4121535,-112.4219521,Goodyear,Arizona,USA,usa
+Amazon_AZA9,33.4933796,-112.358124,Litchfield Park,Arizona,USA,usa
+Amazon_TUS2,32.1299359,-110.8386483,Tucson,Arizona,USA,usa
+Amazon_LIT1,34.6954856,-92.2063742,Little Rock,Arkansas,USA,usa
+Amazon_LIT2,34.7763757,-92.1220259,North Little Rock,Arkansas,USA,usa
+Amazon_BFL1,35.4468565,-119.0502514,Bakersfield,California,USA,usa
+Amazon_PSP1,33.9292032,-116.9999316,Beaumont,California,USA,usa
+Amazon_SBD1,34.0391455,-117.3850907,Bloomington,California,USA,usa
+Amazon_LAX5,33.870413,-117.9962165,Buena Park,California,USA,usa
+Amazon_CNO5,33.9869016,-117.612785,Chino,California,USA,usa
+Amazon_PSP3,33.961124,-116.5016784,Desert Hot Springs,California,USA,usa
+Amazon_FAT1,36.6836906,-119.7657314,Fresno,California,USA,usa
+Amazon_PCA4,38.1635297,-121.1499447,Lockeford,California,USA,usa
+Amazon_SCK3,37.8487783,-121.2570648,Manteca,California,USA,usa
+Amazon_ONT6,33.8720683,-117.2381747,Moreno Valley,California,USA,usa
+Amazon_OAK5,37.5196836,-122.0153818,Newark,California,USA,usa
+Amazon_SCK8,38.0121944,-121.7434738,Oakley,California,USA,usa
+Amazon_OXR1,34.1976308,-119.180381,Oxnard,California,USA,usa
+Amazon_OAK3,37.471623,-121.1296949,Patterson,California,USA,usa
+Amazon_LGB9,33.7818729,-117.2298477,Perris,California,USA,usa
+Amazon_MCC1,38.5890723,-121.302728,Rancho Cordova,California,USA,usa
+Amazon_ONT9,34.0550328,-117.1827445,Redlands,California,USA,usa
+Amazon_SMF1,38.5810606,-121.493895,Sacramento,California,USA,usa
+Amazon_ONT2,34.8253019,-116.0833144,San Bernardino,California,USA,usa
+Amazon_SAN3,32.7174202,-117.162772,San Diego,California,USA,usa
+Amazon_SJC8,36.6744117,-121.655037,Salinas,California,USA,usa
+Amazon_CNO8,34.4127963,-118.5538088,Santa Clarita,California,USA,usa
+Amazon_BFL2,35.501461,-119.273682,Shafter,California,USA,usa
+Amazon_SMF3,37.9577016,-121.290779,Stockton,California,USA,usa
+Amazon_OAK4,37.7385507,-121.420139,Tracy,California,USA,usa
+Amazon_MCE1,37.4946568,-120.8465941,Turlock,California,USA,usa
+Amazon_SMF5,38.3565773,-121.9877444,Vacaville,California,USA,usa
+Amazon_SBD4,34.5361067,-117.2911565,Victorville,California,USA,usa
+Amazon_FAT2,36.3302284,-119.292058,Visalia,California,USA,usa
+Amazon_DEN2,39.7405111,-104.830994,Aurora,Colorado,USA,usa
+Amazon_COS5,38.8339578,-104.825348,Colorado Springs,Colorado,USA,usa
+Amazon_DEN9,40.3977612,-105.07498,Loveland,Colorado,USA,usa
+Amazon_DEN3,39.8695516,-104.985181,Thornton,Colorado,USA,usa
+Amazon_BDL3,41.3909305,-72.859545,North Haven,Connecticut,USA,usa
+Amazon_BDL2,41.8525984,-72.6437022,Windsor,Connecticut,USA,usa
+Amazon_BDL6,41.5949942,-72.6455665,Cromwell,Connecticut,USA,usa
+Amazon_DCY9,41.2784304,-73.0256609,Orange,Connecticut,USA,usa
+Amazon_ILG1,39.6185861,-75.6795539,Bear,Delaware,USA,usa
+Amazon_PHL7,39.4497639,-75.7166345,Middletown,Delaware,USA,usa
+Amazon_MTN1,39.7459468,-75.546589,Wilmington,Delaware,USA,usa
+Amazon_TPA3,28.0653422,-81.7888642,Auburndale,Florida,USA,usa
+Amazon_MCO5,28.1614046,-81.6017417,Davenport,Florida,USA,usa
+Amazon_DAB2,29.2108147,-81.0228331,Daytona Beach,Florida,USA,usa
+Amazon_MCO2,28.904843,-81.2273119,Deltona,Florida,USA,usa
+Amazon_LAL4,26.640628,-81.8723084,Fort Myers,Florida,USA,usa
+Amazon_JAX2,30.3321838,-81.655651,Jacksonville,Florida,USA,usa
+Amazon_TPA2,28.0394654,-81.9498042,Lakeland,Florida,USA,usa
+Amazon_TPA6,29.1871986,-82.1400923,Ocala,Florida,USA,usa
+Amazon_MIA1,25.9023168,-80.2503271,Opa-Locka,Florida,USA,usa
+Amazon_MCO1,28.5421218,-81.379045,Orlando,Florida,USA,usa
+Amazon_TPA1,27.7265395,-82.3878703,Ruskin,Florida,USA,usa
+Amazon_TLH2,30.4891481,-84.1685114,Tallahassee,Florida,USA,usa
+Amazon_TPA4,28.0274707,-82.3539344,Temple Terrace,Florida,USA,usa
+Amazon_PBI2,26.9342246,-80.0942087,Jupiter,Florida,USA,usa
+Amazon_MGE1,34.1092735,-83.7626729,Braselton,Georgia,USA,usa
+Amazon_DGE9,34.1422362,-83.9627272,Buford,Georgia,USA,usa
+Amazon_ATL6,33.6795531,-84.4393724,East Point,Georgia,USA,usa
+Amazon_MGE3,34.1594943,-83.6277206,Jefferson,Georgia,USA,usa
+Amazon_ATL8,33.7797505,-84.6506401,Lithia Springs,Georgia,USA,usa
+Amazon_SAV3,32.7204295,-83.725539,Macon,Georgia,USA,usa
+Amazon_CSG1,33.3130522,-84.782188,Newnan,Georgia,USA,usa
+Amazon_ATL2,33.8062166,-84.1457505,Stone Mountain,Georgia,USA,usa
+Amazon_ATL7,33.5870558,-84.5424299,Union City,Georgia,USA,usa
+Amazon_BOI2,43.6033664,-116.4988069,Nampa,Idaho,USA,usa
+Amazon_BOI5,43.5150683,-116.1553215,Boise,Idaho,USA,usa
+Amazon_MDW9,41.8149559,-88.2127874,Aurora,Illinois,USA,usa
+Amazon_DCH9,41.7500323,-87.8042216,"Bridgeview, Illinois",Illinois,USA,usa
+Amazon_ORD2,41.451686,-88.1913537,Channahon,Illinois,USA,usa
+Amazon_DCH1,41.8404011,-87.6835193,Chicago,Illinois,USA,usa
+Amazon_MDW5,41.5782059,-88.1334234,Crest Hill,Illinois,USA,usa
+Amazon_DXH6,41.7936822,-88.0102281,"Downers Grove, Illinois",Illinois,USA,usa
+Amazon_DLI4,38.7671196,-90.0361899,Edwardsville,Illinois,USA,usa
+Amazon_DCH5,42.03726,-88.2810994,Elgin,Illinois,USA,usa
+Amazon_RFD4,42.1722503,-88.42692,Huntley,Illinois,USA,usa
+Amazon_MDW2,41.4844134,-88.0710334,Joliet,Illinois,USA,usa
+Amazon_IGQ1,41.5981757,-87.6720936,Markham,Illinois,USA,usa
+Amazon_ORD5,41.5247057,-87.7867721,Matteson,Illinois,USA,usa
+Amazon_MDW7,41.4241234,-87.7728317,Monee,Illinois,USA,usa
+Amazon_DCH4,42.263079,-88.0039653,Mundelein,Illinois,USA,usa
+Amazon_DLN8,42.1036555,-88.0327063,Palatine,Illinois,USA,usa
+Amazon_KRFD,42.1947533,-89.1150188,Rockford,Illinois,USA,usa
+Amazon_DCH6,41.6721242,-88.1155265,Romeoville,Illinois,USA,usa
+Amazon_DIL7,42.0173396,-87.7196617,Skokie,Illinois,USA,usa
+Amazon_MDW8,42.3295727,-87.9023432,Waukegan,Illinois,USA,usa
+Amazon_HMW1,41.3378468,-88.2083868,Wilmington,Illinois,USA,usa
+Amazon_PPO4,41.4411942,-87.3189913,Crown Point,Indiana,USA,usa
+Amazon_SBN1,41.6012796,-85.8590603,Elkhart,Indiana,USA,usa
+Amazon_WIN1,37.970495,-87.5715641,Evansville,Indiana,USA,usa
+Amazon_MQJ9,39.4149034,-85.0563234,Franklin,Indiana,USA,usa
+Amazon_MQJ1,39.8298288,-85.8871813,Greenfield,Indiana,USA,usa
+Amazon_IND9,39.5933422,-86.0528673,Greenwood,Indiana,USA,usa
+Amazon_IND4,39.8989727,-86.2641243,Indianapolis,Indiana,USA,usa
+Amazon_SDF8,38.3787641,-85.6867886,Jeffersonville,Indiana,USA,usa
+Amazon_WIN2,40.4275084,-86.9210289,Lafayette,Indiana,USA,usa
+Amazon_IND2,39.7005427,-86.3434613,Plainfield,Indiana,USA,usa
+Amazon_IND1,39.9796754,-86.3796545,Whitestown,Indiana,USA,usa
+Amazon_DSM5,41.6759903,-93.4696481,Bondurant,Iowa,USA,usa
+Amazon_SNE1,41.258841,-95.8519484,Council Bluffs,Iowa,USA,usa
+Amazon_MKC4,38.7744665,-94.9441085,Edgerton,Kansas,USA,usa
+Amazon_MKC6,39.0969897,-94.7391231,Kansas City,Kansas,USA,usa
+Amazon_MCI5,38.9212815,-94.7826829,Lenexa,Kansas,USA,usa
+Amazon_ICT2,37.8000123,-97.3183763,Park City,Kansas,USA,usa
+Amazon_SDF1,38.9806588,-84.6342613,Campbellsville,Kentucky,USA,usa
+Amazon_CVG1,39.0846526,-84.713478,Hebron,Kentucky,USA,usa
+Amazon_LEX1,38.0765804,-84.5334786,Lexington,Kentucky,USA,usa
+Amazon_SDF2,38.2542376,-85.759407,Louisville,Kentucky,USA,usa
+Amazon_LUK7,37.9885936,-85.7158246,Shepherdsville,Kentucky,USA,usa
+Amazon_LFT1,30.3130847,-92.0259012,Carencro,Louisiana,USA,usa
+Amazon_BWI2,39.2676575,-76.5490453,Baltimore,Maryland,USA,usa
+Amazon_HGR2,39.6430455,-77.7191081,Hagerstown,Maryland,USA,usa
+Amazon_MDT2,39.5948331,-76.0030917,North East,Maryland,USA,usa
+Amazon_MTN9,39.3756968,-76.4477152,White Marsh,Maryland,USA,usa
+Amazon_ORH3,42.1340806,-71.9698085,Charlton,Massachusetts,USA,usa
+Amazon_BOS6,42.2966143,-71.8012163,Everett,Massachusetts,USA,usa
+Amazon_BOS7,41.7621205,-71.1001379,Fall River,Massachusetts,USA,usa
+Amazon_BOS3,42.7029687,-71.1309117,North Andover,Massachusetts,USA,usa
+Amazon_DMH9,42.4135498,-71.0002571,Revere,Massachusetts,USA,usa
+Amazon_DAS7,42.5195292,-70.8967226,Salem,Massachusetts,USA,usa
+Amazon_SMA1,42.2762316,-71.6503322,Westborough,Massachusetts,USA,usa
+Amazon_DTW5,42.1529228,-83.2753247,Brownstown Township,Michigan,USA,usa
+Amazon_GRR1,42.8383498,-85.5505083,Caledonia,Michigan,USA,usa
+Amazon_DDT1,42.4620142,-83.1035688,Hazel Park,Michigan,USA,usa
+Amazon_DET1,42.3760579,-83.423185,Livonia,Michigan,USA,usa
+Amazon_DDT6,42.6469785,-83.2520071,Pontiac,Michigan,USA,usa
+Amazon_DTW1,42.2503178,-83.3620426,Romulus,Michigan,USA,usa
+Amazon_DET2,42.6660889,-83.0497235,Shelby Charter Township,Michigan,USA,usa
+Amazon_MSP9,45.1197207,-93.3851281,Brooklyn Park,Minnesota,USA,usa
+Amazon_MSP6,44.6338813,-93.2641214,Lakeville,Minnesota,USA,usa
+Amazon_MSP1,44.8006182,-93.4887011,Shakopee,Minnesota,USA,usa
+Amazon_MEM2,34.8723179,-89.6906396,"Byhalia, Marshall County",Mississippi,USA,usa
+Amazon_PIL1,34.9553719,-90.0348139,Horn Lake,Mississippi,USA,usa
+Amazon_MEM6,34.9507424,-89.7841636,Olive Branch,Mississippi,USA,usa
+Amazon_JAN1,32.5964439,-90.103283,Madison County,Mississippi,USA,usa
+Amazon_STL5,38.7663553,-90.3874906,Hazelwood,Missouri,USA,usa
+Amazon_STL8,38.8090255,-90.5717336,St. Peters,Missouri,USA,usa
+Amazon_STL3,37.1642977,-93.4266944,Republic,Missouri,USA,usa
+Amazon_OMA2,41.1636356,-96.1208435,Papillion,Nebraska,USA,usa
+Amazon_LAS1,35.9651878,-115.1519414,Henderson,Nevada,USA,usa
+Amazon_LAS2,36.2659488,-115.0409794,North Las Vegas,Nevada,USA,usa
+Amazon_RNO4,39.6038349,-119.8484197,Reno,Nevada,USA,usa
+Amazon_DBO6,42.7919779,-71.5294631,Nashua,New Hampshire,USA,usa
+Amazon_EWR5,40.582587,-74.2555253,Avenel,New Jersey,USA,usa
+Amazon_ACY2,40.0871131,-74.8380566,Burlington,New Jersey,USA,usa
+Amazon_TEB6,40.2931467,-74.5047345,Cranbury,New Jersey,USA,usa
+Amazon_LGA5,40.5322086,-74.3834047,Edison,New Jersey,USA,usa
+Amazon_CDW9,40.841775,-74.7179824,Flanders,New Jersey,USA,usa
+Amazon_TEB3,39.7947842,-75.348831,Logan,New Jersey,USA,usa
+Amazon_EWR4,40.1956131,-74.5652478,Robbinsville,New Jersey,USA,usa
+Amazon_TEB9,40.5394706,-74.5611614,Somerset,New Jersey,USA,usa
+Amazon_EWR8,40.8598219,-74.0593075,Teterboro,New Jersey,USA,usa
+Amazon_ACY1,39.832362,-75.1888708,West Deptford,New Jersey,USA,usa
+Amazon_ABQ1,35.0807372,-106.8044848,Albuquerque,New Mexico,USA,usa
+Amazon_SYR1,43.1205983,-76.2076043,Clay,New York,USA,usa
+Amazon_SWF2,41.5348232,-73.8356886,East Fishkill,New York,USA,usa
+Amazon_BUF5,42.9211625,-78.6244463,Lancaster,New York,USA,usa
+Amazon_JFK2,40.7982648,-73.9694848,Manhattan,New York,USA,usa
+Amazon_SWF1,41.5197218,-74.1389875,Montgomery,New York,USA,usa
+Amazon_SWF3,41.4767605,-74.0237519,New Windsor,New York,USA,usa
+Amazon_ALB1,42.5420349,-73.6806,Schodack,New York,USA,usa
+Amazon_CLT1,35.356078,-80.8237638,Charlotte,North Carolina,USA,usa
+Amazon_CLT5,35.4393754,-80.6856704,Concord,North Carolina,USA,usa
+Amazon_RDU5,35.9711125,-78.8733132,Durham,North Carolina,USA,usa
+Amazon_RDU1,35.7163719,-78.5876153,Garner,North Carolina,USA,usa
+Amazon_RDU9,35.359542,-83.8337785,Graham,North Carolina,USA,usa
+Amazon_GSO1,36.1198589,-80.0736533,Kernersville,North Carolina,USA,usa
+Amazon_CLT6,35.1026034,-80.9143347,Pineville,North Carolina,USA,usa
+Amazon_DLT7,36.0712466,-79.5644686,Whitsett,North Carolina,USA,usa
+Amazon_ILM1,34.2352853,-77.9487284,Wilmington,North Carolina,USA,usa
+Amazon_FAR1,46.9407452,-96.8462418,Fargo,North Dakota,USA,usa
+Amazon_AKC1,41.0481962,-81.5853677,Akron,Ohio,USA,usa
+Amazon_AKR1,40.8477007,-81.3125196,Canton,Ohio,USA,usa
+Amazon_CMH1,39.9537915,-82.7124649,Etna,Ohio,USA,usa
+Amazon_CLE3,41.5945871,-81.5063545,Euclid,Ohio,USA,usa
+Amazon_CMH6,39.8092301,-82.972404,Lockbourne,Ohio,USA,usa
+Amazon_CMH3,39.7157533,-81.1078783,Monroe,Ohio,USA,usa
+Amazon_CMH7,40.0677929,-82.7586297,New Albany,Ohio,USA,usa
+Amazon_CLE2,41.4325025,-81.5318834,North Randall,Ohio,USA,usa
+Amazon_PCW1,41.5471043,-83.579132,Rossford,Ohio,USA,usa
+Amazon_CLE5,41.3054293,-81.4657303,Twinsburg,Ohio,USA,usa
+Amazon_LUK2,40.2361742,-83.3569776,Union,Ohio,USA,usa
+Amazon_CMH4,39.944784,-83.2688045,West Jefferson,Ohio,USA,usa
+Amazon_OKC1,35.3749887,-97.5805525,Oklahoma City,Oklahoma,USA,usa
+Amazon_TUL2,36.2128084,-95.840324,Tulsa,Oklahoma,USA,usa
+Amazon_PDX5,45.5586837,-122.9197203,Hillsboro,Oregon,USA,usa
+Amazon_PDX6,45.633331,-122.7682734,Portland,Oregon,USA,usa
+Amazon_PDX7,44.9019079,-122.9642774,Salem,Oregon,USA,usa
+Amazon_PDX9,45.5532,-122.4011728,Troutdale,Oregon,USA,usa
+Amazon_PDX8,45.1454709,-122.8950405,Woodburn,Oregon,USA,usa
+Amazon_ABE2,40.5578779,-75.6152617,Breinigsville,Pennsylvania,USA,usa
+Amazon_MDT1,40.201499,-77.1890783,Carlisle,Pennsylvania,USA,usa
+Amazon_ABE4,40.2222915,-75.1383097,Easton,Pennsylvania,USA,usa
+Amazon_PIT2,40.4785692,-80.2806488,Findlay Township,Pennsylvania,USA,usa
+Amazon_AVP2,41.2445293,-75.4560183,Gouldsboro,Pennsylvania,USA,usa
+Amazon_AVP1,40.9548956,-75.9769572,Hazleton,Pennsylvania,USA,usa
+Amazon_AVP9,41.4686924,-75.5621309,Jessup,Pennsylvania,USA,usa
+Amazon_HPA1,40.1565018,-76.8252731,Lewisberry,Pennsylvania,USA,usa
+Amazon_HIA1,39.9271685,-75.4499963,Middletown,Pennsylvania,USA,usa
+Amazon_ABE5,40.1148787,-75.3433705,Norristown,Pennsylvania,USA,usa
+Amazon_PIT2,40.4145777,-79.9873681,Pittsburgh,Pennsylvania,USA,usa
+Amazon_AVP6,41.3259134,-75.7893604,Pittston,Pennsylvania,USA,usa
+Amazon_TEN1,40.335345,-75.9279495,Reading,Pennsylvania,USA,usa
+Amazon_LBE1,40.2192258,-79.6097255,New Stanton,Pennsylvania,USA,usa
+Amazon_PVD2,41.8261876,-71.527094,Johnston,Rhode Island,USA,usa
+Amazon_GSP1,35.0082759,-82.0356262,Spartanburg,South Carolina,USA,usa
+Amazon_CAE1,33.991869,-81.0640341,West Columbia,South Carolina,USA,usa
+Amazon_CHA2,35.2858415,-84.7575018,Charleston,Tennessee,USA,usa
+Amazon_CHA1,35.0682271,-85.1411954,Chattanooga,Tennessee,USA,usa
+Amazon_BNA2,36.1201836,-86.4095749,Lebanon,Tennessee,USA,usa
+Amazon_BNA3,35.7774227,-86.3635965,Murfreesboro,Tennessee,USA,usa
+Amazon_BNA5,36.0309649,-86.6089267,Nashville,Tennessee,USA,usa
+Amazon_MQY1,36.190779,-86.4794971,Mount Juliet,Tennessee,USA,usa
+Amazon_AMA1,35.2337127,-101.7466741,Amarillo,Texas,USA,usa
+Amazon_ATX1,30.20648,-97.7045662,Austin,Texas,USA,usa
+Amazon_HOU3,29.7820091,-95.9163941,Brookshire,Texas,USA,usa
+Amazon_DFW6,32.9580471,-97.0170373,Coppell,Texas,USA,usa
+Amazon_FTW1,32.6609936,-96.7361037,Dallas,Texas,USA,usa
+Amazon_ELP1,31.6867988,-106.2590015,El Paso,Texas,USA,usa
+Amazon_DFW7,32.9705254,-97.3357107,Fort Worth,Texas,USA,usa
+Amazon_DDX7,32.7346485,-96.4101111,Forney,Texas,USA,usa
+Amazon_HOU2,29.9341403,-95.4283824,Houston,Texas,USA,usa
+Amazon_HOU1,29.9998705,-95.3022803,Humble,Texas,USA,usa
+Amazon_HOU5,29.8295253,-95.767551,Katy,Texas,USA,usa
+Amazon_AUS2,30.4325938,-97.5985481,Pflugerville,Texas,USA,usa
+Amazon_HOU6,29.6666527,-95.712891,Richmond,Texas,USA,usa
+Amazon_SAT2,29.8373207,-97.9629487,San Marcos,Texas,USA,usa
+Amazon_SAT1,29.599867,-98.290999,Schertz,Texas,USA,usa
+Amazon_AUS3,31.4962985,-97.1715788,Waco,Texas,USA,usa
+Amazon_SLC1,40.7859886,-112.0290678,Salt Lake City,Utah,USA,usa
+Amazon_SLC2,40.5685506,-112.0603195,West Jordan,Utah,USA,usa
+Amazon_RIC5,37.7594012,-77.4806603,Ashland,Virginia,USA,usa
+Amazon_ORF2,36.8124545,-76.4529339,Chesapeake,Virginia,USA,usa
+Amazon_RIC2,37.351745,-77.3263047,Chester,Virginia,USA,usa
+Amazon_BWI4,39.2890546,-78.078111,Clear Brook,Virginia,USA,usa
+Amazon_RIC1,37.227928,-77.4019268,Petersburg,Virginia,USA,usa
+Amazon_KRB2,37.2009678,-77.2783185,Prince George,Virginia,USA,usa
+Amazon_PAE2,48.1503324,-122.1675162,Arlington,Washington,USA,usa
+Amazon_DSK4,47.644611,-117.593272,Airway Heights,Washington,USA,usa
+Amazon_SEA8,47.6148804,-122.1968646,Bellevue,Washington,USA,usa
+Amazon_DSE8,47.5011125,-122.7493136,Bremerton,Washington,USA,usa
+Amazon_BFI3,47.1125227,-122.6389637,DuPont,Washington,USA,usa
+Amazon_DWS4,47.9389637,-122.2416255,Everett,Washington,USA,usa
+Amazon_RNT9,47.2186362,-122.3304428,Fife,Washington,USA,usa
+Amazon_BFI4,47.414496,-122.257782,Kent,Washington,USA,usa
+Amazon_OLM1,47.0804919,-122.7624335,Lacey,Washington,USA,usa
+Amazon_MWH1,46.2212662,-119.0511245,Pasco,Washington,USA,usa
+Amazon_GEG2,47.6950642,-117.1650141,Spokane Valley,Washington,USA,usa
+Amazon_JVL1,42.5076728,-88.9713902,Beloit,Wisconsin,USA,usa
+Amazon_DML3,44.2840852,-88.5093032,Greenville/Appleton,Wisconsin,USA,usa
+Amazon_MKE1,42.6075423,-87.9481383,Kenosha,Wisconsin,USA,usa
+Amazon_MKE2,42.8677854,-87.9271361,Oak Creek,Wisconsin,USA,usa

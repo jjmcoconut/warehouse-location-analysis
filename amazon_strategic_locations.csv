@@ -1,0 +1,51 @@
+Name,Latitude,Longitude,City,State,Country,Region
+Amazon_Harbin,45.7593633,126.6276177,Harbin,,China,china
+Amazon_Jinan,36.6519754,117.1138479,Jinan,,China,china
+Amazon_Suzhou,31.311123,120.6212881,Suzhou,,China,china
+Amazon_Guangzhou,23.1301964,113.2592945,Guangzhou,,China,china
+Amazon_Multan,30.197838,71.4719683,Multan,,Pakistan,pakistan
+Amazon_Jurong,1.2595841,103.6704952,Jurong,,Singapore,singapore
+Amazon_Santa Maria,-16.0171229,-48.0131328,Santa Maria,Distrito Federal,Brazil,brazil
+Amazon_GRU6,-23.3561111,-46.8769444,Cajamar,São Paulo,Brazil,brazil
+Amazon_GIG1,-22.7853575,-43.366715,São João de Meriti,Rio de Janeiro,Brazil,brazil
+Amazon_Cabo de Santo Agostinho,-8.2838945,-35.0320984,Cabo de Santo Agostinho,Pernambuco,Brazil,brazil
+Amazon_Brétigny-sur-Orge,48.6099887,2.3075288,Brétigny-sur-Orge,,France,europe
+Amazon_Bathgate,55.9009224,-3.6414828,Bathgate,Scotland,United Kingdom,europe
+Amazon_Wakefield,53.6829541,-1.4967286,Wakefield,England,United Kingdom,europe
+Amazon_Bratislava,48.1516988,17.1093063,Bratislava,,Slovakia,europe
+Amazon_VLC1,39.965214,-0.2625745,"Onda, Castellón",,Spain,europe
+Amazon_Dunstable,51.8861316,-0.5209341,Dunstable,England,United Kingdom,europe
+Amazon_Heidenheim an der Brenz,48.6767637,10.152923,Heidenheim an der Brenz,Baden-Württemberg,Germany,europe
+Amazon_DEL2,28.4646148,77.0299194,Gurgaon,Haryana,India,india
+Amazon_SCCA,22.5726459,88.3638953,Kolkata,West Bengal,India,india
+Amazon_BLR5,12.9767936,77.590082,Bangalore,Karnataka,India,india
+Amazon_BOM7,19.3025562,73.0588072,Bhiwandi,Maharashtra,India,india
+Amazon_AUH1,24.4538352,54.3774014,Abu Dhabi,,United Arab Emirates,united_arab_emirates
+Amazon_DXB5,25.0742823,55.1885387,Dubai,,United Arab Emirates,united_arab_emirates
+Amazon_DXB6,25.0742823,55.1885387,Dubai,,United Arab Emirates,united_arab_emirates
+Amazon_Annacis Island,49.1765307,-122.9372696,Annacis Island,British Columbia,Canada,canada
+Amazon_YXX1,49.2207623,-122.690153,Pitt Meadows,British Columbia,Canada,canada
+Amazon_YYC1,51.3699347,-114.014186,Rocky View County,Alberta,Canada,canada
+Amazon_YGK1,44.2436328,-77.3607597,Belleville,Ontario,Canada,canada
+Amazon_Jeddah,21.5504432,39.1742363,Jeddah,,Saudi Arabia,saudi_arabia
+Amazon_Riyadh,23.333333,45.333333,Riyadh,,Saudi Arabia,saudi_arabia
+Amazon_10th of Ramadan,30.3154491,31.7392776,10th of Ramadan,,Egypt,egypt
+Amazon_NRT2,35.722537,140.0995131,Yachiyo,Chiba Prefecture,Japan,japan
+Amazon_NGO2,35.3329961,137.1319459,Tajimi,Gifu Prefecture,Japan,japan
+Amazon_HND9,35.5306639,139.7037668,Kawasaki,Kanagawa Prefecture,Japan,japan
+Amazon_KIX1,34.5737364,135.4828866,Sakai,Osaka Prefecture,Japan,japan
+Amazon_MTY1,25.6802019,-100.315258,Monterrey,Nuevo León,Mexico,mexico
+Amazon_TIJ1,32.5317397,-117.019529,Tijuana,Baja California,Mexico,mexico
+Amazon_GDL1,20.6720375,-103.338396,Guadalajara,Jalisco,Mexico,mexico
+Amazon_MEX1,19.6531356,-99.2145002,Cuautitlán Izcalli,State of Mexico,Mexico,mexico
+Amazon_Mayfield West,-32.890084,151.7262824,Mayfield West,New South Wales,Australia,australia
+Amazon_Kewdale,-31.9760687,115.9423314,Kewdale,Western Australia,Australia,australia
+Amazon_Ravenhall,-37.7754956,144.7366326,Ravenhall,Victoria,Australia,australia
+Amazon_Cavan,-34.825656,138.5995084,Cavan,South Australia,Australia,australia
+Amazon_BWI4,39.2890546,-78.078111,Clear Brook,Virginia,USA,usa
+Amazon_RNO4,39.6038349,-119.8484197,Reno,Nevada,USA,usa
+Amazon_DFW7,32.9705254,-97.3357107,Fort Worth,Texas,USA,usa
+Amazon_SAV3,32.7204295,-83.725539,Macon,Georgia,USA,usa
+Amazon_SWF3,41.4767605,-74.0237519,New Windsor,New York,USA,usa
+Amazon_SBN1,41.6012796,-85.8590603,Elkhart,Indiana,USA,usa
+Amazon_DSM5,41.6759903,-93.4696481,Bondurant,Iowa,USA,usa
