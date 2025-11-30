@@ -1,0 +1,36 @@
+LAX2	6720 Kimball Ave	Chino	CA	91708
+NJ3	3 Sorbello Rd	Pedricktown	NJ	08067
+KY1	120 Velocity Way	Shepherdsville	KY	40165
+IND1	9590 ALLPOINTS PARKWAY	PLAINFIELD	IN	46168
+ATL3	445 Valentine Industrial Parkway	Pendergrass	GA	30567
+PHX1	6600 North Sarival Avenue	Litchfield Park	AZ	85340
+PHL2	Walmart PHL2n 2785 Commerce Center Blvd Bethlehem, PA 18015	PA	PA	18015
+LAX1	6750 Kimball Avenue	Chino	CA	91708
+MCO1	5100 NORTH RIDGE TRAIL	DAVENPORT	FL	33897
+SMF1	7000 Powerline Rd	Sacramento	CA	95837
+IND2	9360 AllPoints Pkwy	Avon	IN	46123
+W-PHL2	2785 Commerce Center Boulevard	Bethlehem	PA	18015
+KS1	30801 W 191st St	EDGERTON	KS	66021
+ATL2	3101 US-27	Carrollton	GA	30117
+MCI1n	1303 Sw Innovation Pkway	Topeka	KS	66619
+ATL1	6055 S Fulton Pkwy	Atlanta	GA	30349
+IND2T	9360 AllPoints Pkwy. Suite 162	Plainfield	IN	46168
+IND2N	9360 ALLPOINTS PKWY. SUITE 107	PLAINFIELD	IN	46168
+ATL2n	3101 N. Highway 27	Carrollton	GA	30117
+MEM1-S	9200 Alexander Road	Olive Branch	MS	38654
+PHL4n	1410 United Dr	Shippensburg	PA	17257
+ORD1s	3501 Brandon Road	Joliet	IL	60436
+BNA1s	1015 Hixson Blvd	Lebanon	TN	37090
+W-MEM1s	10480 Marina Drive	Olive Branch	MS	38654
+W-IND3	5756 Enterprise Dr	Mccordsville	IN	46055
+W-DC2030	233 Madill Blvd.	Mississauga	ON	L5W 1Y6
+CVG1n	650 Gateway Blvd	Monroe	OH	45050
+DFW5s	2500 E Belt Line Rd	Lancaster	TX	75146
+NJ3T	7 Sorbello Rd	Pedricktown	NJ	08067
+DFW2n	15101 N Beach ST	Fort Worth	TX	76177
+PHL5s	1915 Ebberts Spg Ct	Greencastle	PA	17225
+PHL1s	3215 Commerce Center Blvd	Bethlehem	PA	18015
+DFW6s	14700 Blue Mound Rd	Fort Worth	TX	76052
+0003503GDM	233 Madill Blvd.	Mississauga	ON	L5W 0H1
+DC2028	10 High Plns Tr	Rocky View	AB	T4A 3M6
+DC2093	6175 Edwards Blvd	Mississauga	ON	L5T 2W7

@@ -1,0 +1,427 @@
+Name,Latitude,Longitude,City,State,Code
+Amazon_BHM1,33.3771157,-87.0057927,Bessemer,Alabama,BHM1
+Amazon_HSV1,34.6666314,-86.8501419,Huntsville,Alabama,HSV1
+Amazon_HSV1,34.6666314,-86.8501419,Madison,Alabama,HSV1
+Amazon_MOB1,30.5553873,-88.2117586,Mobile,Alabama,MOB1
+Amazon_MOB5,30.5463684,-88.2023937,Theodore,Alabama,MOB5
+Amazon_GYR3,33.4575099,-112.2333065,Avondale,Arizona,GYR3
+Amazon_PHX5,33.4121535,-112.4219521,Goodyear,Arizona,PHX5
+Amazon_GYR1,33.4411307,-112.3724419,Goodyear,Arizona,GYR1
+Amazon_AZA9,33.4933796,-112.3581240,Litchfield Park,Arizona,AZA9
+Amazon_PHX3,33.4333243,-112.2077965,Phoenix,Arizona,PHX3
+Amazon_PHX6,33.4325300,-112.1647528,Phoenix,Arizona,PHX6
+Amazon_PHX7,33.4570786,-112.2253997,Phoenix,Arizona,PHX7
+Amazon_PHX8,33.4570786,-112.2253997,Phoenix,Arizona,PHX8
+Amazon_TUS1,33.4209106,-112.1758880,Phoenix,Arizona,TUS1
+Amazon_AZA4,33.4170191,-112.1842743,Phoenix,Arizona,AZA4
+Amazon_AZA5,33.4531428,-112.1887457,Phoenix,Arizona,AZA5
+Amazon_PHXZ,33.4410430,-112.2272822,Tolleson,Arizona,PHXZ
+Amazon_TUS2,32.1299359,-110.8386483,Tucson,Arizona,TUS2
+Amazon_TUS5,32.1299359,-110.8386483,Tucson,Arizona,TUS5
+Amazon_LIT1,34.6954856,-92.2063742,Little Rock,Arkansas,LIT1
+Amazon_LIT2,34.7763757,-92.1220259,North Little Rock,Arkansas,LIT2
+Amazon_BFL1,35.4468565,-119.0502514,Bakersfield,California,BFL1
+Amazon_PSP1,33.9292032,-116.9999316,Beaumont,California,PSP1
+Amazon_SBD1,34.0391455,-117.3850907,Bloomington,California,SBD1
+Amazon_LAX5,33.8704130,-117.9962165,Buena Park,California,LAX5
+Amazon_CNO5,33.9869016,-117.6127850,Chino,California,CNO5
+Amazon_PSP3,33.9611240,-116.5016784,Desert Hot Springs,California,PSP3
+Amazon_LGB3,33.9985238,-117.5528497,Eastvale,California,LGB3
+Amazon_FAT1,36.6836906,-119.7657314,Fresno,California,FAT1
+Amazon_LAX9,34.0512330,-117.4462896,Fontana,California,LAX9
+Amazon_ONT1,34.0206300,-117.5256495,Jurupa Valley,California,ONT1
+Amazon_PCA4,38.1635297,-121.1499447,Lockeford,California,PCA4
+Amazon_SCK3,37.8487783,-121.2570648,Manteca,California,SCK3
+Amazon_ONT6,33.8720683,-117.2381747,Moreno Valley,California,ONT6
+Amazon_ONT8,33.8682920,-117.2371219,Moreno Valley,California,ONT8
+Amazon_OAK5,37.5196836,-122.0153818,Newark,California,OAK5
+Amazon_SCK8,38.0121944,-121.7434738,Oakley,California,SCK8
+Amazon_TCY9,38.0121944,-121.7434738,Oakley,California,TCY9
+Amazon_SBD6,34.0658460,-117.6484300,Ontario,California,SBD6
+Amazon_OXR1,34.1976308,-119.1803810,Oxnard,California,OXR1
+Amazon_OAK3,37.4716230,-121.1296949,Patterson,California,OAK3
+Amazon_LGB9,33.7818729,-117.2298477,Perris,California,LGB9
+Amazon_MCC1,38.5890723,-121.3027280,Rancho Cordova,California,MCC1
+Amazon_ONT9,34.0550328,-117.1827445,Redlands,California,ONT9
+Amazon_LGB4,34.0550328,-117.1827445,Redlands,California,LGB4
+Amazon_SNA4,34.1064001,-117.3703235,Rialto,California,SNA4
+Amazon_LGB8,34.1064001,-117.3703235,Rialto,California,LGB8
+Amazon_LGB7,34.1064001,-117.3703235,Rialto,California,LGB7
+Amazon_LGB6,33.9824949,-117.3742380,Riverside,California,LGB6
+Amazon_SMF1,38.5810606,-121.4938950,Sacramento,California,SMF1
+Amazon_SMF6,38.5810606,-121.4938950,Sacramento,California,SMF6
+Amazon_XAT4,38.5810606,-121.4938950,Sacramento,California,XAT4
+Amazon_ONT2,34.8253019,-116.0833144,San Bernardino,California,ONT2
+Amazon_ONT5,34.8253019,-116.0833144,San Bernardino,California,ONT5
+Amazon_SBD2,34.8253019,-116.0833144,San Bernardino,California,SBD2
+Amazon_SBD3,34.8253019,-116.0833144,San Bernardino,California,SBD3
+Amazon_SNA7,34.8253019,-116.0833144,San Bernardino,California,SNA7
+Amazon_LGB5,34.8253019,-116.0833144,San Bernardino,California,LGB5
+Amazon_KSBD,34.8253019,-116.0833144,San Bernardino,California,KSBD
+Amazon_SAN3,32.7174202,-117.1627720,San Diego,California,SAN3
+Amazon_SAN5,32.7174202,-117.1627720,San Diego,California,SAN5
+Amazon_SAN6,32.7174202,-117.1627720,San Diego,California,SAN6
+Amazon_SJC8,36.6744117,-121.6550370,Salinas,California,SJC8
+Amazon_CNO8,34.4127963,-118.5538088,Santa Clarita,California,CNO8
+Amazon_BFL2,35.5014610,-119.2736820,Shafter,California,BFL2
+Amazon_SMF3,37.9577016,-121.2907790,Stockton,California,SMF3
+Amazon_SCK1,37.9577016,-121.2907790,Stockton,California,SCK1
+Amazon_SCK9,37.9577016,-121.2907790,Stockton,California,SCK9
+Amazon_SCK4,37.9577016,-121.2907790,Stockton,California,SCK4
+Amazon_OAK4,37.7385507,-121.4201390,Tracy,California,OAK4
+Amazon_SJC7,37.7385507,-121.4201390,Tracy,California,SJC7
+Amazon_OAK6,37.7385507,-121.4201390,Tracy,California,OAK6
+Amazon_SCK6,37.7385507,-121.4201390,Tracy,California,SCK6
+Amazon_TCY5,37.7385507,-121.4201390,Tracy,California,TCY5
+Amazon_MCE1,37.4946568,-120.8465941,Turlock,California,MCE1
+Amazon_SMF5,38.3565773,-121.9877444,Vacaville,California,SMF5
+Amazon_SMF7,38.3565773,-121.9877444,Vacaville,California,SMF7
+Amazon_SBD4,34.5361067,-117.2911565,Victorville,California,SBD4
+Amazon_FAT2,36.3302284,-119.2920580,Visalia,California,FAT2
+Amazon_DEN2,39.7405111,-104.8309940,Aurora,Colorado,DEN2
+Amazon_DEN5,39.7405111,-104.8309940,Aurora,Colorado,DEN5
+Amazon_DEN7,39.7405111,-104.8309940,Aurora,Colorado,DEN7
+Amazon_COS5,38.8339578,-104.8253480,Colorado Springs,Colorado,COS5
+Amazon_DEN4,38.8339578,-104.8253480,Colorado Springs,Colorado,DEN4
+Amazon_DEN9,40.3977612,-105.0749800,Loveland,Colorado,DEN9
+Amazon_DEN3,39.8695516,-104.9851810,Thornton,Colorado,DEN3
+Amazon_BDL3,41.3909305,-72.8595450,North Haven,Connecticut,BDL3
+Amazon_BDL7,41.3909305,-72.8595450,North Haven,Connecticut,BDL7
+Amazon_BDL5,41.4564233,-72.8239356,Wallingford,Connecticut,BDL5
+Amazon_DOB2,41.4564233,-72.8239356,Wallingford,Connecticut,DOB2
+Amazon_BDL2,41.8525984,-72.6437022,Windsor,Connecticut,BDL2
+Amazon_BDL4,41.8525984,-72.6437022,Windsor,Connecticut,BDL4
+Amazon_DCY1,41.8525984,-72.6437022,Windsor,Connecticut,DCY1
+Amazon_BDL6,41.5949942,-72.6455665,Cromwell,Connecticut,BDL6
+Amazon_DCY9,41.2784304,-73.0256609,Orange,Connecticut,DCY9
+Amazon_ILG1,39.6185861,-75.6795539,Bear,Delaware,ILG1
+Amazon_PHL7,39.4497639,-75.7166345,Middletown,Delaware,PHL7
+Amazon_PHL9,39.4497639,-75.7166345,Middletown,Delaware,PHL9
+Amazon_PHL1,39.6159851,-75.6629560,New Castle,Delaware,PHL1
+Amazon_MTN1,39.7459468,-75.5465890,Wilmington,Delaware,MTN1
+Amazon_TPA3,28.0653422,-81.7888642,Auburndale,Florida,TPA3
+Amazon_MCO5,28.1614046,-81.6017417,Davenport,Florida,MCO5
+Amazon_DAB2,29.2108147,-81.0228331,Daytona Beach,Florida,DAB2
+Amazon_MCO2,28.9048430,-81.2273119,Deltona,Florida,MCO2
+Amazon_LAL4,26.6406280,-81.8723084,Fort Myers,Florida,LAL4
+Amazon_JAX2,30.3321838,-81.6556510,Jacksonville,Florida,JAX2
+Amazon_JAX3,30.3321838,-81.6556510,Jacksonville,Florida,JAX3
+Amazon_JAX5,30.3321838,-81.6556510,Jacksonville,Florida,JAX5
+Amazon_TPA2,28.0394654,-81.9498042,Lakeland,Florida,TPA2
+Amazon_TPA6,29.1871986,-82.1400923,Ocala,Florida,TPA6
+Amazon_MIA1,25.9023168,-80.2503271,Opa-Locka,Florida,MIA1
+Amazon_MCO1,28.5421218,-81.3790450,Orlando,Florida,MCO1
+Amazon_TPA1,27.7265395,-82.3878703,Ruskin,Florida,TPA1
+Amazon_TLH2,30.4891481,-84.1685114,Tallahassee,Florida,TLH2
+Amazon_TPA4,28.0274707,-82.3539344,Temple Terrace,Florida,TPA4
+Amazon_PBI2,26.9342246,-80.0942087,Jupiter,Florida,PBI2
+Amazon_MGE1,34.1092735,-83.7626729,Braselton,Georgia,MGE1
+Amazon_DGE9,34.1422362,-83.9627272,Buford,Georgia,DGE9
+Amazon_ATL6,33.6795531,-84.4393724,East Point,Georgia,ATL6
+Amazon_MGE3,34.1594943,-83.6277206,Jefferson,Georgia,MGE3
+Amazon_MGE5,34.1594943,-83.6277206,Jefferson,Georgia,MGE5
+Amazon_ATL8,33.7797505,-84.6506401,Lithia Springs,Georgia,ATL8
+Amazon_SAV3,32.7204295,-83.7255390,Macon,Georgia,SAV3
+Amazon_CSG1,33.3130522,-84.7821880,Newnan,Georgia,CSG1
+Amazon_AGS2,34.1623292,-83.6779474,Pendergrass,Georgia,AGS2
+Amazon_ATL2,33.8062166,-84.1457505,Stone Mountain,Georgia,ATL2
+Amazon_ATL7,33.5870558,-84.5424299,Union City,Georgia,ATL7
+Amazon_BOI2,43.6033664,-116.4988069,Nampa,Idaho,BOI2
+Amazon_BOI5,43.5150683,-116.1553215,Boise,Idaho,BOI5
+Amazon_MDW9,41.8149559,-88.2127874,Aurora,Illinois,MDW9
+Amazon_DCH9,41.7500323,-87.8042216,"Bridgeview, Illinois",Illinois,DCH9
+Amazon_ORD2,41.4516860,-88.1913537,Channahon,Illinois,ORD2
+Amazon_ORD9,41.4516860,-88.1913537,Channahon,Illinois,ORD9
+Amazon_DCH1,41.8404011,-87.6835193,Chicago,Illinois,DCH1
+Amazon_DIL3,41.8404011,-87.6835193,Chicago,Illinois,DIL3
+Amazon_DLN4,41.8404011,-87.6835193,Chicago,Illinois,DLN4
+Amazon_DXH5,41.8404011,-87.6835193,Chicago,Illinois,DXH5
+Amazon_KORD,41.8404011,-87.6835193,Chicago,Illinois,KORD
+Amazon_DLN2,41.8631631,-87.7557273,Cicero,Illinois,DLN2
+Amazon_MDW5,41.5782059,-88.1334234,Crest Hill,Illinois,MDW5
+Amazon_DXH6,41.7936822,-88.0102281,"Downers Grove, Illinois",Illinois,DXH6
+Amazon_DLI4,38.7671196,-90.0361899,Edwardsville,Illinois,DLI4
+Amazon_STL4,38.7671196,-90.0361899,Edwardsville,Illinois,STL4
+Amazon_STL6,38.7671196,-90.0361899,Edwardsville,Illinois,STL6
+Amazon_STL7,38.7671196,-90.0361899,Edwardsville,Illinois,STL7
+Amazon_DCH5,42.0372600,-88.2810994,Elgin,Illinois,DCH5
+Amazon_DCH7,42.0372600,-88.2810994,Elgin,Illinois,DCH7
+Amazon_RFD4,42.1722503,-88.4269200,Huntley,Illinois,RFD4
+Amazon_MDW2,41.4844134,-88.0710334,Joliet,Illinois,MDW2
+Amazon_MDW4,41.4844134,-88.0710334,Joliet,Illinois,MDW4
+Amazon_IGQ1,41.5981757,-87.6720936,Markham,Illinois,IGQ1
+Amazon_ORD5,41.5247057,-87.7867721,Matteson,Illinois,ORD5
+Amazon_MDW7,41.4241234,-87.7728317,Monee,Illinois,MDW7
+Amazon_ORD4,41.4241234,-87.7728317,Monee,Illinois,ORD4
+Amazon_DCH4,42.2630790,-88.0039653,Mundelein,Illinois,DCH4
+Amazon_DLN8,42.1036555,-88.0327063,Palatine,Illinois,DLN8
+Amazon_KRFD,42.1947533,-89.1150188,Rockford,Illinois,KRFD
+Amazon_RFD1,42.1947533,-89.1150188,Rockford,Illinois,RFD1
+Amazon_DCH6,41.6721242,-88.1155265,Romeoville,Illinois,DCH6
+Amazon_MDW6,41.6721242,-88.1155265,Romeoville,Illinois,MDW6
+Amazon_DIL7,42.0173396,-87.7196617,Skokie,Illinois,DIL7
+Amazon_IGQ2,41.4651907,-87.7507013,University Park,Illinois,IGQ2
+Amazon_MDW8,42.3295727,-87.9023432,Waukegan,Illinois,MDW8
+Amazon_MKE6,42.3295727,-87.9023432,Waukegan,Illinois,MKE6
+Amazon_DIL5,41.8754067,-88.2528833,"West Chicago, Illinois",Illinois,DIL5
+Amazon_HMW1,41.3378468,-88.2083868,Wilmington,Illinois,HMW1
+Amazon_PPO4,41.4411942,-87.3189913,Crown Point,Indiana,PPO4
+Amazon_SBN1,41.6012796,-85.8590603,Elkhart,Indiana,SBN1
+Amazon_WIN1,37.9704950,-87.5715641,Evansville,Indiana,WIN1
+Amazon_MQJ9,39.4149034,-85.0563234,Franklin,Indiana,MQJ9
+Amazon_MQJ1,39.8298288,-85.8871813,Greenfield,Indiana,MQJ1
+Amazon_IND9,39.5933422,-86.0528673,Greenwood,Indiana,IND9
+Amazon_IND4,39.8989727,-86.2641243,Indianapolis,Indiana,IND4
+Amazon_IND8,39.8989727,-86.2641243,Indianapolis,Indiana,IND8
+Amazon_SDF8,38.3787641,-85.6867886,Jeffersonville,Indiana,SDF8
+Amazon_WIN2,40.4275084,-86.9210289,Lafayette,Indiana,WIN2
+Amazon_IND2,39.7005427,-86.3434613,Plainfield,Indiana,IND2
+Amazon_IND5,39.7005427,-86.3434613,Plainfield,Indiana,IND5
+Amazon_IND1,39.9796754,-86.3796545,Whitestown,Indiana,IND1
+Amazon_XUSE,39.9796754,-86.3796545,Whitestown,Indiana,XUSE
+Amazon_DSM5,41.6759903,-93.4696481,Bondurant,Iowa,DSM5
+Amazon_DSM9,41.6759903,-93.4696481,Bondurant,Iowa,DSM9
+Amazon_SNE1,41.2588410,-95.8519484,Council Bluffs,Iowa,SNE1
+Amazon_MKC4,38.7744665,-94.9441085,Edgerton,Kansas,MKC4
+Amazon_MKC6,39.0969897,-94.7391231,Kansas City,Kansas,MKC6
+Amazon_FOE1,39.0969897,-94.7391231,Kansas City,Kansas,FOE1
+Amazon_MCI5,38.9212815,-94.7826829,Lenexa,Kansas,MCI5
+Amazon_ICT2,37.8000123,-97.3183763,Park City,Kansas,ICT2
+Amazon_SDF1,38.9806588,-84.6342613,Campbellsville,Kentucky,SDF1
+Amazon_LUK5,39.0417270,-84.6630046,Erlanger,Kentucky,LUK5
+Amazon_CVG1,39.0846526,-84.7134780,Hebron,Kentucky,CVG1
+Amazon_CVG2,39.0846526,-84.7134780,Hebron,Kentucky,CVG2
+Amazon_CVG3,39.0846526,-84.7134780,Hebron,Kentucky,CVG3
+Amazon_CVG5,39.0846526,-84.7134780,Hebron,Kentucky,CVG5
+Amazon_CVG7,39.0846526,-84.7134780,Hebron,Kentucky,CVG7
+Amazon_CVG9,39.0846526,-84.7134780,Hebron,Kentucky,CVG9
+Amazon_LUK5,39.0846526,-84.7134780,Hebron,Kentucky,LUK5
+Amazon_LEX1,38.0765804,-84.5334786,Lexington,Kentucky,LEX1
+Amazon_LEX2,38.0765804,-84.5334786,Lexington,Kentucky,LEX2
+Amazon_LEX3,38.0765804,-84.5334786,Lexington,Kentucky,LEX3
+Amazon_LEX5,38.0765804,-84.5334786,Lexington,Kentucky,LEX5
+Amazon_SDF2,38.2542376,-85.7594070,Louisville,Kentucky,SDF2
+Amazon_LUK7,37.9885936,-85.7158246,Shepherdsville,Kentucky,LUK7
+Amazon_SDF4,37.9885936,-85.7158246,Shepherdsville,Kentucky,SDF4
+Amazon_SDF6,37.9885936,-85.7158246,Shepherdsville,Kentucky,SDF6
+Amazon_SDF9,37.9885936,-85.7158246,Shepherdsville,Kentucky,SDF9
+Amazon_LFT1,30.3130847,-92.0259012,Carencro,Louisiana,LFT1
+Amazon_BWI2,39.2676575,-76.5490453,Baltimore,Maryland,BWI2
+Amazon_BWI5,39.2676575,-76.5490453,Baltimore,Maryland,BWI5
+Amazon_MTN5,39.2676575,-76.5490453,Baltimore,Maryland,MTN5
+Amazon_DCA6,39.2227599,-76.4625391,Edgemere,Maryland,DCA6
+Amazon_HGR2,39.6430455,-77.7191081,Hagerstown,Maryland,HGR2
+Amazon_MDT2,39.5948331,-76.0030917,North East,Maryland,MDT2
+Amazon_DCA1,39.2339477,-76.4910293,Sparrows Point,Maryland,DCA1
+Amazon_DCA2,39.2339477,-76.4910293,Sparrows Point,Maryland,DCA2
+Amazon_MTN9,39.3756968,-76.4477152,White Marsh,Maryland,MTN9
+Amazon_ORH3,42.1340806,-71.9698085,Charlton,Massachusetts,ORH3
+Amazon_BOS6,42.2966143,-71.8012163,Everett,Massachusetts,BOS6
+Amazon_BOS7,41.7621205,-71.1001379,Fall River,Massachusetts,BOS7
+Amazon_BOS3,42.7029687,-71.1309117,North Andover,Massachusetts,BOS3
+Amazon_DMH9,42.4135498,-71.0002571,Revere,Massachusetts,DMH9
+Amazon_BOS5,42.2966143,-71.8012163,Stoughton,Massachusetts,BOS5
+Amazon_DAS7,42.5195292,-70.8967226,Salem,Massachusetts,DAS7
+Amazon_SMA1,42.2762316,-71.6503322,Westborough,Massachusetts,SMA1
+Amazon_DTB4,42.2505391,-71.8657562,Worcester,Massachusetts,DTB4
+Amazon_DTW5,42.1529228,-83.2753247,Brownstown Township,Michigan,DTW5
+Amazon_GRR1,42.8383498,-85.5505083,Caledonia,Michigan,GRR1
+Amazon_DDT1,42.4620142,-83.1035688,Hazel Park,Michigan,DDT1
+Amazon_SMI1,42.4620142,-83.1035688,Hazel Park,Michigan,SMI1
+Amazon_DTW3,42.1715248,-83.3693520,Huron Township,Michigan,DTW3
+Amazon_DET1,42.3760579,-83.4231850,Livonia,Michigan,DET1
+Amazon_DTW8,42.3712000,-83.4675021,Plymouth,Michigan,DTW8
+Amazon_DDT6,42.6469785,-83.2520071,Pontiac,Michigan,DDT6
+Amazon_DET3,42.6469785,-83.2520071,Pontiac,Michigan,DET3
+Amazon_DTW1,42.2503178,-83.3620426,Romulus,Michigan,DTW1
+Amazon_DTW3,42.2503178,-83.3620426,Romulus,Michigan,DTW3
+Amazon_DTW9,42.2503178,-83.3620426,Romulus,Michigan,DTW9
+Amazon_DDT2,42.2503178,-83.3620426,Romulus,Michigan,DDT2
+Amazon_DET2,42.6660889,-83.0497235,Shelby Charter Township,Michigan,DET2
+Amazon_DGR3,42.5803122,-83.0302033,Sterling Heights,Michigan,DGR3
+Amazon_MSP9,45.1197207,-93.3851281,Brooklyn Park,Minnesota,MSP9
+Amazon_MSP6,44.6338813,-93.2641214,Lakeville,Minnesota,MSP6
+Amazon_MSP7,45.1177871,-93.4138167,Maple Grove,Minnesota,MSP7
+Amazon_MSP1,44.8006182,-93.4887011,Shakopee,Minnesota,MSP1
+Amazon_MSP5,44.8006182,-93.4887011,Shakopee,Minnesota,MSP5
+Amazon_MEM2,34.8723179,-89.6906396,"Byhalia, Marshall County",Mississippi,MEM2
+Amazon_PIL1,34.9553719,-90.0348139,Horn Lake,Mississippi,PIL1
+Amazon_MEM6,34.9507424,-89.7841636,Olive Branch,Mississippi,MEM6
+Amazon_JAN1,32.5964439,-90.1032830,Madison County,Mississippi,JAN1
+Amazon_STL5,38.7663553,-90.3874906,Hazelwood,Missouri,STL5
+Amazon_STL8,38.8090255,-90.5717336,St. Peters,Missouri,STL8
+Amazon_STL3,37.1642977,-93.4266944,Republic,Missouri,STL3
+Amazon_OMA2,41.1636356,-96.1208435,Papillion,Nebraska,OMA2
+Amazon_LAS1,35.9651878,-115.1519414,Henderson,Nevada,LAS1
+Amazon_LAS2,36.2659488,-115.0409794,North Las Vegas,Nevada,LAS2
+Amazon_LAS5,36.2659488,-115.0409794,North Las Vegas,Nevada,LAS5
+Amazon_LAS6,36.2659488,-115.0409794,North Las Vegas,Nevada,LAS6
+Amazon_LAS7,36.2659488,-115.0409794,North Las Vegas,Nevada,LAS7
+Amazon_RNO4,39.6038349,-119.8484197,Reno,Nevada,RNO4
+Amazon_DBO6,42.7919779,-71.5294631,Nashua,New Hampshire,DBO6
+Amazon_EWR5,40.5825870,-74.2555253,Avenel,New Jersey,EWR5
+Amazon_EWR6,40.5825870,-74.2555253,Avenel,New Jersey,EWR6
+Amazon_ACY2,40.0871131,-74.8380566,Burlington,New Jersey,ACY2
+Amazon_EWR9,40.5957868,-74.2253781,Carteret,New Jersey,EWR9
+Amazon_DNJ1,40.5957868,-74.2253781,Carteret,New Jersey,DNJ1
+Amazon_CDW5,40.5957868,-74.2253781,Carteret,New Jersey,CDW5
+Amazon_TEB6,40.2931467,-74.5047345,Cranbury,New Jersey,TEB6
+Amazon_LGA5,40.5322086,-74.3834047,Edison,New Jersey,LGA5
+Amazon_LGA9,40.5322086,-74.3834047,Edison,New Jersey,LGA9
+Amazon_CDW9,40.8417750,-74.7179824,Flanders,New Jersey,CDW9
+Amazon_ABE8,40.1100562,-74.8025251,Florence,New Jersey,ABE8
+Amazon_TEB3,39.7947842,-75.3488310,Logan,New Jersey,TEB3
+Amazon_EWR4,40.1956131,-74.5652478,Robbinsville,New Jersey,EWR4
+Amazon_TEB9,40.5394706,-74.5611614,Somerset,New Jersey,TEB9
+Amazon_EWR8,40.8598219,-74.0593075,Teterboro,New Jersey,EWR8
+Amazon_ACY1,39.8323620,-75.1888708,West Deptford,New Jersey,ACY1
+Amazon_ABQ1,35.0807372,-106.8044848,Albuquerque,New Mexico,ABQ1
+Amazon_SYR1,43.1205983,-76.2076043,Clay,New York,SYR1
+Amazon_SWF2,41.5348232,-73.8356886,East Fishkill,New York,SWF2
+Amazon_BUF5,42.9211625,-78.6244463,Lancaster,New York,BUF5
+Amazon_JFK2,40.7982648,-73.9694848,Manhattan,New York,JFK2
+Amazon_JFK7,40.7982648,-73.9694848,Manhattan,New York,JFK7
+Amazon_SWF1,41.5197218,-74.1389875,Montgomery,New York,SWF1
+Amazon_SWF3,41.4767605,-74.0237519,New Windsor,New York,SWF3
+Amazon_ALB1,42.5420349,-73.6806000,Schodack,New York,ALB1
+Amazon_JFK8,40.6190124,-74.1882206,Staten Island,New York,JFK8
+Amazon_CLT1,35.3560780,-80.8237638,Charlotte,North Carolina,CLT1
+Amazon_CLT2,35.3560780,-80.8237638,Charlotte,North Carolina,CLT2
+Amazon_CLT4,35.3560780,-80.8237638,Charlotte,North Carolina,CLT4
+Amazon_CLT5,35.4393754,-80.6856704,Concord,North Carolina,CLT5
+Amazon_RDU5,35.9711125,-78.8733132,Durham,North Carolina,RDU5
+Amazon_RDU1,35.7163719,-78.5876153,Garner,North Carolina,RDU1
+Amazon_RDU9,35.3595420,-83.8337785,Graham,North Carolina,RDU9
+Amazon_CLT3,35.4393754,-80.6856704,Kannapolis,North Carolina,CLT3
+Amazon_GSO1,36.1198589,-80.0736533,Kernersville,North Carolina,GSO1
+Amazon_CLT6,35.1026034,-80.9143347,Pineville,North Carolina,CLT6
+Amazon_DLT7,36.0712466,-79.5644686,Whitsett,North Carolina,DLT7
+Amazon_ILM1,34.2352853,-77.9487284,Wilmington,North Carolina,ILM1
+Amazon_FAR1,46.9407452,-96.8462418,Fargo,North Dakota,FAR1
+Amazon_AKC1,41.0481962,-81.5853677,Akron,Ohio,AKC1
+Amazon_AKR1,40.8477007,-81.3125196,Canton,Ohio,AKR1
+Amazon_CMH1,39.9537915,-82.7124649,Etna,Ohio,CMH1
+Amazon_CLE3,41.5945871,-81.5063545,Euclid,Ohio,CLE3
+Amazon_CMH6,39.8092301,-82.9724040,Lockbourne,Ohio,CMH6
+Amazon_CMH3,39.7157533,-81.1078783,Monroe,Ohio,CMH3
+Amazon_CMH7,40.0677929,-82.7586297,New Albany,Ohio,CMH7
+Amazon_CLE2,41.4325025,-81.5318834,North Randall,Ohio,CLE2
+Amazon_CMH2,39.8462533,-82.9313903,Obetz,Ohio,CMH2
+Amazon_PCW1,41.5471043,-83.5791320,Rossford,Ohio,PCW1
+Amazon_CLE5,41.3054293,-81.4657303,Twinsburg,Ohio,CLE5
+Amazon_LUK2,40.2361742,-83.3569776,Union,Ohio,LUK2
+Amazon_CMH4,39.9447840,-83.2688045,West Jefferson,Ohio,CMH4
+Amazon_OKC1,35.3749887,-97.5805525,Oklahoma City,Oklahoma,OKC1
+Amazon_OKC2,35.3749887,-97.5805525,Oklahoma City,Oklahoma,OKC2
+Amazon_OKC5,35.3749887,-97.5805525,Oklahoma City,Oklahoma,OKC5
+Amazon_OKC9,35.3749887,-97.5805525,Oklahoma City,Oklahoma,OKC9
+Amazon_TUL2,36.2128084,-95.8403240,Tulsa,Oklahoma,TUL2
+Amazon_PDX5,45.5586837,-122.9197203,Hillsboro,Oregon,PDX5
+Amazon_PDX6,45.6333310,-122.7682734,Portland,Oregon,PDX6
+Amazon_EUG5,45.6333310,-122.7682734,Portland,Oregon,EUG5
+Amazon_PDX7,44.9019079,-122.9642774,Salem,Oregon,PDX7
+Amazon_PDX9,45.5532000,-122.4011728,Troutdale,Oregon,PDX9
+Amazon_PDX8,45.1454709,-122.8950405,Woodburn,Oregon,PDX8
+Amazon_ABE2,40.5578779,-75.6152617,Breinigsville,Pennsylvania,ABE2
+Amazon_ABE3,40.5578779,-75.6152617,Breinigsville,Pennsylvania,ABE3
+Amazon_MDT1,40.2014990,-77.1890783,Carlisle,Pennsylvania,MDT1
+Amazon_PHL4,40.2014990,-77.1890783,Carlisle,Pennsylvania,PHL4
+Amazon_PNE4,40.2014990,-77.1890783,Carlisle,Pennsylvania,PNE4
+Amazon_PHL6,40.2014990,-77.1890783,Carlisle,Pennsylvania,PHL6
+Amazon_ABE4,40.2222915,-75.1383097,Easton,Pennsylvania,ABE4
+Amazon_PIT2,40.4785692,-80.2806488,Findlay Township,Pennsylvania,PIT2
+Amazon_AVP2,41.2445293,-75.4560183,Gouldsboro,Pennsylvania,AVP2
+Amazon_RDG1,,,Hamburg & Upper Bern Township,Pennsylvania,RDG1
+Amazon_AVP1,40.9548956,-75.9769572,Hazleton,Pennsylvania,AVP1
+Amazon_AVP9,41.4686924,-75.5621309,Jessup,Pennsylvania,AVP9
+Amazon_HPA1,40.1565018,-76.8252731,Lewisberry,Pennsylvania,HPA1
+Amazon_PHL5,40.1565018,-76.8252731,Lewisberry,Pennsylvania,PHL5
+Amazon_HIA1,39.9271685,-75.4499963,Middletown,Pennsylvania,HIA1
+Amazon_SPA4,39.9271685,-75.4499963,Middletown,Pennsylvania,SPA4
+Amazon_ABE5,40.1148787,-75.3433705,Norristown,Pennsylvania,ABE5
+Amazon_PIT2,40.4145777,-79.9873681,Pittsburgh,Pennsylvania,PIT2
+Amazon_PIT5,40.4145777,-79.9873681,Pittsburgh,Pennsylvania,PIT5
+Amazon_PIT9,40.4145777,-79.9873681,Pittsburgh,Pennsylvania,PIT9
+Amazon_AVP6,41.3259134,-75.7893604,Pittston,Pennsylvania,AVP6
+Amazon_TEN1,40.3353450,-75.9279495,Reading,Pennsylvania,TEN1
+Amazon_HDC3,40.3471300,-80.0473757,Bethel,Pennsylvania,HDC3
+Amazon_MDT4,40.1565523,-76.8253861,York,Pennsylvania,MDT4
+Amazon_LBE1,40.2192258,-79.6097255,New Stanton,Pennsylvania,LBE1
+Amazon_PVD2,41.8261876,-71.5270940,Johnston,Rhode Island,PVD2
+Amazon_GSP1,35.0082759,-82.0356262,Spartanburg,South Carolina,GSP1
+Amazon_CAE1,33.9918690,-81.0640341,West Columbia,South Carolina,CAE1
+Amazon_CAE3,33.9918690,-81.0640341,West Columbia,South Carolina,CAE3
+Amazon_CHA2,35.2858415,-84.7575018,Charleston,Tennessee,CHA2
+Amazon_CHA1,35.0682271,-85.1411954,Chattanooga,Tennessee,CHA1
+Amazon_BNA2,36.1201836,-86.4095749,Lebanon,Tennessee,BNA2
+Amazon_MEM1,35.0083289,-89.9498213,Memphis,Tennessee,MEM1
+Amazon_MEM4,35.0083289,-89.9498213,Memphis,Tennessee,MEM4
+Amazon_BNA3,35.7774227,-86.3635965,Murfreesboro,Tennessee,BNA3
+Amazon_BNA5,36.0309649,-86.6089267,Nashville,Tennessee,BNA5
+Amazon_BNA9,36.0156178,-86.5819394,La Vergne,Tennessee,BNA9
+Amazon_MQY1,36.1907790,-86.4794971,Mount Juliet,Tennessee,MQY1
+Amazon_AMA1,35.2337127,-101.7466741,Amarillo,Texas,AMA1
+Amazon_ATX1,30.2064800,-97.7045662,Austin,Texas,ATX1
+Amazon_ATX2,30.2064800,-97.7045662,Austin,Texas,ATX2
+Amazon_HOU3,29.7820091,-95.9163941,Brookshire,Texas,HOU3
+Amazon_DFW6,32.9580471,-97.0170373,Coppell,Texas,DFW6
+Amazon_FTW2,32.9580471,-97.0170373,Coppell,Texas,FTW2
+Amazon_FTW6,32.9580471,-97.0170373,Coppell,Texas,FTW6
+Amazon_FTW1,32.6609936,-96.7361037,Dallas,Texas,FTW1
+Amazon_DAL3,32.6609936,-96.7361037,Dallas,Texas,DAL3
+Amazon_FTW8,32.6609936,-96.7361037,Dallas,Texas,FTW8
+Amazon_ELP1,31.6867988,-106.2590015,El Paso,Texas,ELP1
+Amazon_DFW7,32.9705254,-97.3357107,Fort Worth,Texas,DFW7
+Amazon_FTW3,32.9705254,-97.3357107,Fort Worth,Texas,FTW3
+Amazon_FTW4,32.9705254,-97.3357107,Fort Worth,Texas,FTW4
+Amazon_DDX7,32.7346485,-96.4101111,Forney,Texas,DDX7
+Amazon_HOU2,29.9341403,-95.4283824,Houston,Texas,HOU2
+Amazon_HOU6,29.9341403,-95.4283824,Houston,Texas,HOU6
+Amazon_HOU1,29.9998705,-95.3022803,Humble,Texas,HOU1
+Amazon_DFW8,32.9396905,-97.0283613,Irving,Texas,DFW8
+Amazon_DAL2,32.9396905,-97.0283613,Irving,Texas,DAL2
+Amazon_RBD5,32.9396905,-97.0283613,Irving,Texas,RBD5
+Amazon_HOU5,29.8295253,-95.7675510,Katy,Texas,HOU5
+Amazon_AUS2,30.4325938,-97.5985481,Pflugerville,Texas,AUS2
+Amazon_HOU6,29.6666527,-95.7128910,Richmond,Texas,HOU6
+Amazon_SAT2,29.8373207,-97.9629487,San Marcos,Texas,SAT2
+Amazon_SAT1,29.5998670,-98.2909990,Schertz,Texas,SAT1
+Amazon_DAL9,32.5890243,-96.6852724,Wilmer,Texas,DAL9
+Amazon_AUS3,31.4962985,-97.1715788,Waco,Texas,AUS3
+Amazon_AFW1,32.9705254,-97.3357107,Fort Worth,Texas,AFW1
+Amazon_SLC1,40.7859886,-112.0290678,Salt Lake City,Utah,SLC1
+Amazon_SLC2,40.5685506,-112.0603195,West Jordan,Utah,SLC2
+Amazon_RIC5,37.7594012,-77.4806603,Ashland,Virginia,RIC5
+Amazon_RIC9,37.7594012,-77.4806603,Ashland,Virginia,RIC9
+Amazon_ORF2,36.8124545,-76.4529339,Chesapeake,Virginia,ORF2
+Amazon_RIC2,37.3517450,-77.3263047,Chester,Virginia,RIC2
+Amazon_RIC3,37.3517450,-77.3263047,Chester,Virginia,RIC3
+Amazon_BWI4,39.2890546,-78.0781110,Clear Brook,Virginia,BWI4
+Amazon_RIC1,37.2279280,-77.4019268,Petersburg,Virginia,RIC1
+Amazon_KRB2,37.2009678,-77.2783185,Prince George,Virginia,KRB2
+Amazon_ORF3,36.8095819,-76.4776632,Suffolk,Virginia,ORF3
+Amazon_PAE2,48.1503324,-122.1675162,Arlington,Washington,PAE2
+Amazon_DSK4,47.6446110,-117.5932720,Airway Heights,Washington,DSK4
+Amazon_SEA8,47.6148804,-122.1968646,Bellevue,Washington,SEA8
+Amazon_DSE8,47.5011125,-122.7493136,Bremerton,Washington,DSE8
+Amazon_BFI3,47.1125227,-122.6389637,DuPont,Washington,BFI3
+Amazon_BFI9,47.1125227,-122.6389637,DuPont,Washington,BFI9
+Amazon_DWS4,47.9389637,-122.2416255,Everett,Washington,DWS4
+Amazon_RNT9,47.2186362,-122.3304428,Fife,Washington,RNT9
+Amazon_BFI4,47.4144960,-122.2577820,Kent,Washington,BFI4
+Amazon_BFI5,47.4144960,-122.2577820,Kent,Washington,BFI5
+Amazon_BFI6,47.4144960,-122.2577820,Kent,Washington,BFI6
+Amazon_OLM1,47.0804919,-122.7624335,Lacey,Washington,OLM1
+Amazon_MWH1,46.2212662,-119.0511245,Pasco,Washington,MWH1
+Amazon_PSC2,46.2212662,-119.0511245,Pasco,Washington,PSC2
+Amazon_BFI8,47.4161165,-122.3051117,SeaTac,Washington,BFI8
+Amazon_GEG1,47.6006386,-117.5533553,Spokane County,Washington,GEG1
+Amazon_GEG5,47.6006386,-117.5533553,Spokane County,Washington,GEG5
+Amazon_GEG2,47.6950642,-117.1650141,Spokane Valley,Washington,GEG2
+Amazon_BFI1,47.2410084,-122.2432923,Sumner,Washington,BFI1
+Amazon_BFI7,47.2410084,-122.2432923,Sumner,Washington,BFI7
+Amazon_JVL1,42.5076728,-88.9713902,Beloit,Wisconsin,JVL1
+Amazon_DML3,44.2840852,-88.5093032,Greenville/Appleton,Wisconsin,DML3
+Amazon_MKE1,42.6075423,-87.9481383,Kenosha,Wisconsin,MKE1
+Amazon_MKE5,42.6075423,-87.9481383,Kenosha,Wisconsin,MKE5
+Amazon_MKE2,42.8677854,-87.9271361,Oak Creek,Wisconsin,MKE2

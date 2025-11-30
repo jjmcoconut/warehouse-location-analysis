@@ -1,0 +1,387 @@
+Alabama
+Bessemer (BHM1)
+Huntsville (HSV1)[102]
+Madison (HSV1)[103]
+Mobile (MOB1)
+Montgomery[102]
+Theodore (MOB5)
+Arizona
+Avondale (GYR3)
+Goodyear (PHX5, GYR1)
+Litchfield Park (AZA9)
+Phoenix (PHX3, PHX6, PHX7, PHX8, TUS1, AZA4, AZA5)
+Tolleson (PHXZ)
+Tucson (TUS2, TUS5)[104]
+Arkansas
+Little Rock (LIT1)[105]
+North Little Rock (LIT2)[106]
+California
+Bakersfield (BFL1)[107]
+Beaumont (PSP1)[108]
+Bloomington (SBD1)
+Buena Park (LAX5)
+Chino (CNO5)
+Desert Hot Springs (PSP3)
+Eastvale (LGB3)
+Fresno (FAT1)
+Fontana (LAX9)
+Jurupa Valley (ONT1)[109]
+Lockeford[110] (PCA4)
+Manteca (SCK3)
+Moreno Valley[101] (ONT6, ONT8)
+Newark[101] (OAK5)
+Oakley (SCK8, TCY9)
+Ontario (SBD6)[111]
+Oxnard (OXR1)[112]
+Patterson (OAK3)
+Perris (LGB9)
+Rancho Cordova (MCC1)
+Redlands[101] (ONT9, LGB4)
+Rialto (SNA4, LGB8, LGB7)
+Riverside (LGB6)
+Sacramento (SMF1, SMF6, XAT4)
+San Bernardino (ONT2, ONT5, SBD2, SBD3, SNA7, LGB5, KSBD)
+San Diego (SAN3, SAN5, SAN6 opening 2026)[113]
+Salinas (SJC8, opening 2026)
+Santa Clarita (CNO8)
+Shafter (BFL2)[114]
+Stockton[101] (SMF3, SCK1,[115] SCK9, SCK4)
+Tracy (OAK4, SJC7, OAK6, SCK6, TCY5)
+Turlock (MCE1)[116]
+Vacaville (SMF5, SMF7)
+Victorville (SBD4)[117][118][note 1]
+Visalia (FAT2)[119]
+Colorado
+Aurora (DEN2, DEN5, DEN7)
+Colorado Springs (COS5, DEN4)[120]
+Loveland (DEN9, opening TBD)
+Thornton (DEN3)
+Connecticut
+North Haven (BDL3, BDL7)
+Wallingford (BDL5, DOB2)
+Windsor (BDL2, BDL4, DCY1)[121][122]
+Cromwell (BDL6)
+Orange (DCY9)
+Delaware
+Bear[123] (ILG1)
+Middletown[124] (PHL7, PHL9)
+New Castle (PHL1)
+Wilmington (MTN1)[125]
+Florida
+Auburndale (TPA3)
+Davenport[101] (MCO5)
+Daytona Beach (DAB2)[126]
+Deltona (MCO2)
+Doral[101] (Miami) (MIA5, MIA7)
+Fort Myers (LAL4)[127]
+Homestead[128]
+Jacksonville (JAX2, JAX3, JAX5)
+Lakeland (TPA2)
+New Port Richey[129]
+Ocala (TPA6)[130]
+Opa-Locka[101] (MIA1)
+Orlando[101] (MCO1)
+Port St. Lucie[131]
+Ruskin (TPA1)
+Tallahassee (TLH2)[132][133]
+Temple Terrace (TPA4) (2021)[134]
+Jupiter (PBI2)[135]
+Sunrise[136]
+Georgia
+Augusta (Appling, Columbia County) (AGS1)[137]
+Braselton[138] (MGE1)
+Buford (DGE9)[139]
+East Point[101] (ATL6)
+Jefferson[140] (MGE3)
+Jefferson (MGE5)
+Lithia Springs[101] (ATL8)
+Macon (SAV3)[141]
+Newnan (CSG1)[142]
+Pendergrass (AGS2)
+Pooler[143]
+Stone Mountain (ATL2)[144]
+Union City[101] (ATL7)
+Idaho
+Nampa (BOI2)[145]
+Boise (BOI5)[146]
+Illinois
+Aurora (MDW9)
+Bridgeview, Illinois (DCH9)
+Channahon (ORD2, ORD9)[147]
+Chicago (DCH1, DIL3, DLN4, DXH5, KORD)
+Cicero (DLN2)
+Crest Hill (MDW5)
+Downers Grove, Illinois (DXH6)
+Edwardsville (DLI4, STL4,[note 2] STL6, STL7)
+Elgin (DCH5, DCH7)[148]
+Huntley (RFD4)[149]
+Joliet[101] (MDW2, MDW4, third building potentially opening in 2023)[150]
+Markham (IGQ1)[151]
+Matteson (ORD5)[151]
+Monee (MDW7, ORD4)
+Mundelein (DCH4)
+North Pekin[152]
+Palatine (DLN8)[153][154]
+Rockford (KRFD, RFD1)[155]
+Romeoville (DCH6, MDW6)
+Skokie (DIL7)
+University Park (IGQ2)[156]
+Waukegan (MDW8, MKE6)[157]
+West Chicago, Illinois (DIL5)
+Wilmington (HMW1)
+Indiana
+Crown Point (PPO4)
+Elkhart (SBN1)[158][159]
+Evansville (WIN1)
+Franklin (MQJ9)[160]
+Ft. Wayne FWA4 [161]
+Georgetown HLO9
+Greenfield (MQJ1)
+Greenwood (IND9)
+Indianapolis[101] (IND4, IND8)
+Jeffersonville (SDF8)
+Lafayette (WIN2)
+Lanesville[162]
+Plainfield (IND2, IND5)
+Whitestown (IND1, XUSE)
+Iowa
+Bondurant (DSM5, DSM9)[163]
+Council Bluffs (SNE1)[164]
+Davenport[165]
+Kansas
+Edgerton (MKC4)[166]
+Kansas City[101] (MKC6, FOE1) (FOE1)[167]
+Lenexa[101] (MCI5)
+Park City (ICT2)[168]
+Kentucky
+Campbellsville (SDF1)
+Erlanger (LUK5)[169]
+Hebron (CVG1, CVG2, CVG3, CVG5, CVG7, CVG9, LUK5)
+Lexington (LEX1, LEX2, LEX3, LEX5)
+Louisville (SDF2)
+Shepherdsville[101] (LUK7, SDF4, SDF6, SDF9)
+Louisiana
+Baton Rouge[170][note 3]
+Carencro (LFT1)[171]
+Shreveport[172]
+Maryland
+Baltimore[173][174] (BWI2, BWI5, MTN5[175])
+Edgemere (DCA6)
+Hagerstown (HGR2)[176]
+North East (MDT2)[177]
+Sparrows Point (DCA1 DCA2)[178]
+White Marsh (MTN9)
+Massachusetts
+Charlton[179] (ORH3)
+Everett[101] (BOS6)
+Fall River[101] (BOS7)
+North Andover (BOS3)[180]
+Revere (DMH9)
+Stoughton[101] (BOS5)
+Salem (DAS7)
+Westborough (SMA1)[181]
+Worcester (DTB4)[182]
+Michigan
+Brownstown Township[101] (DTW5)
+Caledonia (GRR1)
+Delta Township[183]
+Detroit[184]
+Gaines Township[185]
+Hazel Park (DDT1, SMI1)[186]
+Huron Township (DTW3)[186]
+Livonia[101] (DET1)
+Plymouth (DTW8)
+Pontiac (DDT6, DET3)[note 4]
+Romulus[101] (DTW1, DTW3, DTW9, DDT2)
+Shelby Charter Township (DET2)
+Sterling Heights (DGR3)
+Minnesota
+Brooklyn Park (MSP9)
+Lakeville (MSP6)[187]
+Maple Grove (MSP7)[188]
+Shakopee[101] (MSP1, MSP5)
+St. Cloud[189]
+Woodbury[190]
+Mississippi
+Byhalia, Marshall County (MEM2)[191][192]
+Horn Lake (PIL1)
+Olive Branch (MEM6)[193]
+Madison County (JAN1)[194]
+Missouri
+Hazelwood (STL5)
+Liberty[195]
+St. Peters (STL8)[196]
+Republic (STL3)[197]
+Nebraska
+Papillion (OMA2)[198]
+Nevada
+Henderson (LAS1)[199]
+North Las Vegas (LAS2, LAS5, LAS6, LAS7)[200]
+Reno[101] (RNO4)
+New Hampshire
+Nashua (DBO6)
+New Jersey
+Avenel (EWR5,[201] EWR6/7)
+Burlington (ACY2)[202]
+Carney's Point[203]
+Carteret (EWR9, DNJ1, CDW5)
+Cranbury (TEB6)
+Edison (LGA5, LGA9)
+Flanders (CDW9)
+Florence (ABE8)
+Logan (TEB3)[204]
+Robbinsville[205] (EWR4)
+Somerset (TEB9)
+Swedesboro[101] (ACY5,[201] IVSC,[201] IVSD[206][201]
+Teterboro (EWR8)
+West Deptford (ACY1)
+New Mexico
+Albuquerque (ABQ1)[207]
+Los Lunas[208]
+New York
+Bronx (Soundview) TBD
+Bronx (Hunts Point) TBD
+Clay (SYR1)[209]
+East Fishkill(SWF2)[210]
+Lancaster (BUF5)[201]
+Gates[211]
+Manhattan (JFK2,[212] JFK7[213])
+Montgomery (SWF1)[214]
+New Windsor(SWF3)[215]
+Niagara (opening 2024)[216]
+Schodack (ALB1)[217]
+Staten Island (JFK8[218])
+North Carolina
+Charlotte (CLT1,[201] CLT2, CLT4)
+Concord[101] (CLT5)
+Durham (RDU5)[201]
+Fayetteville[219]
+Garner (RDU1)[220]
+Graham (RDU9)[221]
+Greensboro[222]
+Kannapolis (CLT3)
+Kernersville (GSO1)[223]
+Pineville (CLT6)[224]
+Smithfield[225]
+Whitsett (DLT7)
+Wilmington (ILM1)[226]
+North Dakota
+Fargo (FAR1)[227]
+Ohio
+Akron (AKC1)[note 5]
+Canton (AKR1)
+Etna (CMH1)
+Euclid (CLE3)[note 6]
+Lockbourne (CMH6)
+Monroe (CMH3)
+New Albany (CMH7)
+North Randall (CLE2)[note 7]
+Obetz (CMH2)
+Rossford (PCW1)
+Twinsburg (CLE5)
+Union (LUK2)
+West Jefferson (CMH4)
+Oklahoma
+Oklahoma City (OKC1, OKC2 OKC5, OKC9)
+Tulsa (TUL2)[228]
+Oregon
+Canby[229]
+Hillsboro (PDX5)
+Portland (PDX6, EUG5)
+Salem (PDX7)
+Troutdale (PDX9)
+Woodburn (PDX8)[230]
+Pennsylvania
+Breinigsville[101] (ABE2, ABE3)
+Carlisle (MDT1, PHL4, PNE4 (formerly PHL6), XUSC)
+Easton (ABE4)
+Findlay Township (PIT2)[231]
+Gouldsboro (AVP2/3)
+Hamburg & Upper Bern Township (RDG1)[232]
+Hazleton (AVP1)
+Jessup (AVP9)[233]
+Lewisberry (HPA1 (formerly PHL5), MDT5)
+Middletown (HIA1, SPA4)
+Norristown (ABE5)
+Pittsburgh (PIT2, PIT5, PIT9)
+Pittston (AVP6)
+Reading (TEN1)
+Bethel (HDC3)
+York (MDT4)
+New Stanton (LBE1)
+Rhode Island
+Johnston[234] (PVD2)
+South Carolina
+Spartanburg (GSP1)
+West Columbia (CAE1, CAE3)
+South Dakota
+Sioux Falls[235]
+Tennessee
+Alcoa[236]
+Charleston (CHA2)
+Chattanooga (CHA1)
+Clarksville[237]
+Lebanon (BNA2)
+Memphis (MEM1, MEM4)
+Murfreesboro (BNA3)
+Nashville (BNA5)
+La Vergne (BNA9)
+Mount Juliet (MQY1)[238]
+Texas
+Amarillo (AMA1)[239]
+Austin (ATX1, ATX2)
+Brookshire (HOU3)
+Coppell (DFW6, FTW2, FTW6)
+Dallas (FTW1, DAL3, FTW8)
+El Paso (ELP1 )[240]
+Fort Worth[101] (DFW7, FTW3, FTW4)
+Forney (DDX7)[241]
+Houston (HOU2, HOU6)
+Humble (HOU1)
+Irving (DFW8, DAL2, RBD5)
+Katy (HOU5)[242]
+Lubbock[243]
+Missouri City[244]
+Pflugerville (AUS2)[245]
+Richmond (HOU6)[246]
+San Antonio[247]
+San Marcos (SAT2)[248]
+Schertz (SAT1)
+Wilmer (DAL9)
+Waco (AUS3)[249]
+Fort Worth (AFW1)
+Utah
+Salt Lake City (SLC1)
+West Jordan (SLC2)[250]
+Virginia
+Ashland (RIC5, RIC9)
+Chesapeake (ORF2[251])
+Chester (RIC2, RIC3)
+Clear Brook (BWI4)
+Fishersville[252]
+Petersburg (RIC1)
+Prince George (KRB2)
+Richmond[253]
+Stafford County[254]
+Suffolk (ORF3)[251]
+Washington
+Arlington (PAE2)[255][256]
+Airway Heights (DSK4)
+Bellevue (SEA8)
+Bremerton (DSE8)[257]
+DuPont (BFI3, BFI9)
+Everett (DWS4)
+Fife (RNT9)[258]
+Kent[101] (BFI4, BFI5, BFI6)
+Lacey (OLM1)[259]
+Pasco (MWH1 and PSC2)[260][261][note 8]
+SeaTac (BFI8)[262]
+Spokane County (GEG1, GEG5)[263]
+Spokane Valley (GEG2)[264][265]
+Sumner (BFI1, BFI7)[266][267]
+Wisconsin
+Beloit (JVL1)[268]
+Cottage Grove[269]
+Greenville/Appleton (DML3)[270]
+Kenosha (MKE1, MKE5)[271]
+Oak Creek (MKE2)[272]
